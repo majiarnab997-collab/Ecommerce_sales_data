@@ -1,0 +1,1032 @@
+Order ID,Customer_ID,  Order Date,Category,Product Name,Qty,Unit Price,Country ,PaymentMethod,customer_email,Rating,Discount,Returned?
+ORD1031,CUST114,2023/04/22,Clothing,Shampoo,1,,Australia,Credit Card,customer27@mail.com,2,,No
+ORD1109,CUST33,30.06.2023,Beauty,,10,free,France,PayPal,customer80@mail.com,5,0.41,
+ORD1136,CUST5,2024/02/16,beauty ,T-Shirt,8,28.03,INDIA,  paypal  ,customer111@mail.com,1,0.1,Yes
+ORD1088,CUST188,19-Sep-2024,Clothing,T-Shirt,9,111.45,Australia,Credit Card,customer166@mail.com,4,13%,Yes
+ORD1920,CUST75,2024-04-21,beauty ,Bluetooth Speaker,1,199.25,Germany,paypal,customer63@mail.com,2,16%,Yes
+ORD1108,CUST111,06-11-2023,ELECTRONICS,Headphones,8,129.17,india,COD,customer17@mail.com,5,0.14,No
+ORD1872,CUST53,2023/03/14,Electronics,T-Shirt,6,196.87,Germany,,customer3@mail.com,2,0.21,No
+ORD1318,CUST241,16-May-2024,clothing,Yoga Mat,5,143.48,india,COD,customer84@mail.com,3,31%,Yes
+ORD1261,CUST283,2023/05/30,beauty ,wireless mouse,1,33.82,india,NA,customer85@@mail.com,2,0.42,No
+ORD1535,CUST100,02-08-2023,  Electronics  ,Smart Watch ,8,176.68,,paypal,CUSTOMER24@MAIL.COM,5,44%,Yes
+ORD1737,CUST238,19-Dec-2023,Books ,  Power Bank  ,9,66.84,U.S.A,  CREDIT CARD  ,CUSTOMER82@MAIL.COM,5,,Yes
+ORD1596,CUST79,05.03.2023,Electronics,wireless mouse,,109.64,,COD,,3,0.12,No
+ORD1076,cust27,14-Apr-2024,electronics,,2,free,France,paypal,customer260@mail.com,4,0.19,no
+ORD1107,CUST152,22.06.2024,clothing,,3,131.22,United Kingdom,upi,customer130@mail.com,1,40%,No
+ORD1424,CUST129,2023/10/31,Electronics,USB-C Cable,8,167.9,unknown,UPI,,good,48%,N
+ORD1584,CUST64,10.12.2023,beauty ,Power Bank,-5,,Germany,CREDIT CARD,,2,0.13,Yes
+ORD1855,CUST72,10-12-2024,Electronics,,five,18.59,unknown,COD,customer75@@mail.com,5,0.34,
+ORD1665,CUST249,2024/05/11,Clothing,Denim Jacket,6,102.75,INDIA,COD,,,,No
+ORD1826,CUST61,02-08-2023,Clothing, Running Shoes,8,151.68,germany,,customer222@mail.com,2,29%,No
+ORD1420,CUST226,2023-03-24,  Clothing  ,Wireless Mouse,6,149.79, France,credit card,customer278@mail.com,4,,Yes
+ORD1597,CUST165,28-Jan-2023,ELECTRONICS, Running Shoes,,125.14,India,credit card,customer120@mail.com,5,0.06,No
+ORD1458,CUST193,29.11.2024,ELECTRONICS,  Gel Pen  ,5,125.16,  unknown  ,COD,customer157@mail.com,5,0.48,No
+ORD1312,CUST19,2024/09/26,Home and Kitchen,Headphones,3,130.19,unknown,CREDIT CARD,customer155@mail.com,2,0.45,No
+ORD1649,CUST140,10/10/2024,Books,  Gel Pen  ,3,75.84,India,UPI,customer160@mail.com,2,9%,Yes
+ORD1365,CUST150,04-23-2023,Sports,Yoga Mat,6,95.44,Australia,PayPal,customer4@mail.com,,,No
+ORD1321,CUST92,29/04/2023,Home and Kitchen,Notebook,5,-159.66,  USA  ,  upi  ,customer245@mail.com,2,0.06,Yes
+ORD1629,CUST65,08-21-2023,Books ,,2,111.59,,UPI,customer22@mail.com,2,0.06,Yes
+ORD1847,CUST22,09-Nov-2023,Books ,Smart Watch ,9,Rs.167.93,USA,UPI,customer200@mail.com,4,0.1,no
+ORD1468,CUST108,invalid_date,Clothing,USB-C Cable,2,93.78, France,PayPal,customer29@mail.com,4,,No
+ORD1598,CUST156,2024/03/29,Clothing,Smart Watch ,3,87.16,United Kingdom,  PayPal  ,customer50@mail.com,2,0.12,Yes
+ORD1394,CUST22,30.07.2024,Books,Power Bank,8,119.19,USA,UPI,CUSTOMER39@MAIL.COM,4,0.2,Yes
+ORD1536,CUST237,13-Aug-2024,  Home & Kitchen  ,T-Shirt,7,197.68,USA,Cash on Delivery,customer159@mail.com,1,0.22,No
+ORD1721,CUST239,22.01.2023,Beauty,Yoga Mat,0,$61.21,UK,Cash on Delivery,customer40@mail.com,5,,No
+ORD1333,CUST142,06/07/2024,Home & Kitchen, Running Shoes,five,57.94,Germany,NA,customer77@mail.com,3,45%,No
+ORD1409,CUST210,20.06.2023,Beauty,Gel Pen,,146.7,USA,CREDIT CARD,customer266@mail.com,5,0.31,Yes
+ORD1059,CUST11,22.11.2024,  Books  ,T-Shirt,7,167.21,USA,Credit Card,customer103@mail.com,1,0.23,0
+ORD1256,CUST11,2024/05/11,beauty ,Face Cream,7,free,France,paypal,customer167@mail.com,10,,N
+ORD1971,CUST265,02.01.2024,Books,Laptop Stand,6,73.62,USA,Cash on Delivery,customer37@mail.com,3,0.02,No
+ORD1994,CUST241,2023/08/01,  Books   ,T-Shirt,1,Rs.106.07,Australia,,customer137@@mail.com,2,0.37,No
+ORD1342,CUST38,14.09.2024,  Home & Kitchen  ,Shampoo,6,Rs.27.81,Australia,NA,,3,,No
+ORD1635,CUST96,06-14-2023,Books,,1,77.41,unknown,Debit Card,customer189@mail.com,2,0.22,N
+ORD1765,CUST210,18/05/2023,ELECTRONICS,Laptop Stand,10,34.24,United Kingdom,    ,CUSTOMER10@MAIL.COM,2,0.36,Yes
+ORD1010,CUST53,20/03/2024,clothing,  Power Bank  ,4,153.92,N/A,CREDIT CARD,,4,0.41,Yes
+ORD1485,CUST54,27/06/2023,Sports,Bluetooth Speaker,8,149.93,Germany,    ,customer3@mail.com,5,0.02,
+ORD1209,CUST83,02.01.2024,electronics,Yoga Mat,7,54.4,India,,customer78@mail.com,1,0.31,No
+ORD1139,CUST225,2024/08/29,Beauty,Power Bank,1,40.13,USA,Credit Card,customer255@mail.com,5,0.08,
+ORD1388,CUST151,26/08/2024,Clothing, Running Shoes,8,168.8,INDIA,,,good,,1
+ORD1622,CUST190,2024/10/06,Books,Face Cream,6,-93.88,India,  credit card  ,customer131@mail.com,2,0.01,No
+ORD1799,CUST146,30-Apr-2024,ELECTRONICS,USB-C Cable,8,188.54,India,NA,CUSTOMER143@MAIL.COM,1,10%,Yes
+ORD1718,CUST198,14/07/2023,Beauty,USB-C Cable,7,183.58,United States,PayPal,customer89@mail.com,3,0.26,Yes
+ORD1847,,2023/11/02,Home & Kitchen,,7,80.51,U.S.A,Credit Card,customer131@mail.com,2,26%,No
+ORD1835,CUST79,18-Jul-2023,electronics,USB-C Cable,3,126.17,  United States  ,Debit Card,customer300@mail.com,2,25%,No
+ORD1937,CUST143,27/09/2024,Books ,Webcam HD,1,149.2,United Kingdom,UPI,customer247@mail.com,5,28%,No
+ORD1581,cust187,24.10.2024,Sports,Smart Watch ,4,47.46,Australia,  Cash on Delivery  ,customer45@mail.com,3,0.17,No
+ORD1382,CUST5,09-26-2023,Books ,Gel Pen,8,143.55,France,NA,,2,11%,Yes
+ORD1070,CUST10,06.04.2024,Home & Kitchen,Laptop Stand,2,62.16,,COD,customer27@mail.com,1,41%,Yes
+ORD1260,CUST13,2023-11-08,Sports,Smart Watch ,1,166.09,United Kingdom,upi,customer27@mail.com,5,36%,Yes
+ORD1802,CUST215,2023/08/16,ELECTRONICS,Shampoo,1,$106.74,germany,,customer249@mail.com,1,2%,Yes
+ORD1453,CUST270,02-07-2024,Books ,Yoga Mat,7,51.68,United States,Credit Card,,5,0.04,1
+ORD1591,CUST110,21-Oct-2023,Home and Kitchen,,5,176060.0,india,paypal,customer211@mail.com,2,0.22,No
+ORD1908,CUST40,21.04.2023,Beauty,Bluetooth Speaker,3,31.59,Australia,    ,,2,0.39,Yes
+ORD1786,CUST65,invalid_date,ELECTRONICS,,,146.34,France,PayPal,customer95@mail.com,2,47%,True
+ORD1213,CUST133,2024/06/04,  Sports  ,Smart Watch ,6,83.24,,credit card,,3,34%,Yes
+ORD1096,CUST203,2024-03-26,Electronics,Webcam HD,3,66.38,unknown,UPI,customer35@mail.com,4,0.29,No
+ORD1688,CUST175,2024/07/02,Clothing,Yoga Mat,8,6.89,USA,PayPal,customer218@mail.com,2,0.42,Yes
+ORD1851,CUST160,26-Mar-2023,beauty ,Bluetooth Speaker,10,12.14,United Kingdom,credit card,customer267@mail.com,1,17%,Yes
+ORD1848,CUST130,13.12.2023,Books ,Webcam HD,2,39.12,germany,COD,customer11@mail.com,5,0.22,Yes
+ORD1728,CUST104,06/03/2023,ELECTRONICS,Yoga Mat,5,60.68,France,Cash on Delivery,customer194@mail.com,4,30%,No
+ORD1192,CUST130,04-05-2024,  Home and Kitchen  ,Denim Jacket,6,-125.66,unknown,  credit card  ,CUSTOMER286@MAIL.COM,4,0.02,No
+ORD1280,CUST33,2023/02/14,Beauty,  Face Cream  ,5,$58.67,Germany,PayPal,,2,0.1,
+ORD1533,CUST167,18.06.2023,clothing,Laptop Stand,6,104.78,France,PayPal,customer228@mail.com,3,0.18,Yes
+ORD1926,CUST118,05-31-2024,Home and Kitchen,,6,184.28,,upi,,1,0.04,Yes
+ORD1617,CUST223,2023-01-17,Sports, Running Shoes,2,16.77,India,Cash on Delivery,customer277@mail.com,3,49%,No
+ORD1820,CUST165,2023/08/23,electronics,   Running Shoes  ,1,129.31,,Credit Card,customer92@mail.com,2,27%,No
+ORD1865,CUST239,05-14-2023,Home and Kitchen,Notebook,,8.37,Australia,credit card,customer271@mail.com,1,26%,No
+ORD1184,CUST93,20/10/2024,clothing,Bluetooth Speaker,1,126.73,France,NA,customer93@mail.com,3,0.12,Yes
+ORD1030,CUST158,21.11.2024,Books,Yoga Mat,4,101.12,N/A,upi,customer259@mail.com,,0.1,Yes
+ORD1328,CUST274,23.04.2024,ELECTRONICS,Notebook,-2,80.09,United Kingdom,upi,customer191@mail.com,1,0.31,
+ORD1506,CUST91,28/12/2023,Electronics,Phone Case,five,70.28,unknown,paypal,customer25@mail.com,,38%,Yes
+ORD1054,CUST1,2023-02-25,Books ,Webcam HD,10,72.7,Germany,paypal,customer119@mail.com,1,0.38,Yes
+ORD1023,CUST185,06-04-2024,Clothing,Shampoo,8,,,,customer177@mail.com,1,0.0,No
+ORD1090,CUST237,27.12.2023,  clothing  ,,1,83.91,N/A,Debit Card,customer283@mail.com,2,0.11,No
+ORD1549,CUST137,2024-08-20,Home and Kitchen,,9,187.68,India,paypal,customer259@mail.com,1,3%,0
+ORD1247,cust147,12.07.2024,Books ,Bluetooth Speaker,5,9.91, France,,customer213@mail.com,1,0.15,No
+ORD1003,CUST297,04-06-2023,Electronics,Phone Case,8,60.5, France,Credit Card,customer253@mail.com,,0.06,1
+ORD1086,CUST222,19/08/2023,Beauty,wireless mouse,1,11.7,  Germany  ,,customer19@mail.com,3,0%,Yes
+ORD1845,CUST103,2023/08/24,electronics,Phone Case,7,28.4, France,Debit Card,,5,0.22,yes
+ORD1954,CUST69,2024/02/19,electronics,Headphones,3,51.5,N/A,upi,customer211@mail.com,4,0.41,Yes
+ORD1290,CUST128,21.12.2023,Books ,,2,$116.67,Germany,PayPal,,4,31%,No
+ORD1210,cust295,2023/01/24,beauty ,Laptop Stand,9,105.73,Australia,CREDIT CARD,customer264@@mail.com,3,0.33,No
+ORD1677,CUST78,15.04.2024,  beauty   ,  Face Cream  ,9999,51.62,germany,  PayPal  ,customer243@mail.com,3,22%,0
+ORD1174,CUST38,26.04.2023,Books ,Smart Watch ,8,-39.69,germany,Cash on Delivery,customer49@mail.com,4,,Yes
+ORD1199,CUST186,05.11.2024,Sports,wireless mouse,10,89.31,N/A,credit card,customer183@mail.com,good,0.3,N
+ORD1904,CUST83,07-Nov-2023,clothing,Smart Watch ,10,67.99,Australia,CREDIT CARD,customer147@mail.com,5,4%,No
+ORD1368,CUST102,28/04/2023,  Sports  ,Face Cream,3,154.1,India,Debit Card,customer232@mail.com,10,,No
+ORD1063,,12/01/2023,clothing,,,32.83,unknown,  upi  ,customer274@mail.com,5,0.05,No
+ORD1265,CUST145,07/07/2024,Home and Kitchen,  Webcam HD  ,2,$186.88,Australia,credit card,customer210@mail.com,1,21%,False
+ORD1231,CUST59,2024-11-26,Electronics,,10,free,United Kingdom,Debit Card,customer63@mail.com,8,0.43,0
+ORD1006,CUST275,2023-01-27,ELECTRONICS,Smart Watch ,10,76010.0,,COD,customer176@mail.com,4,0.08,True
+ORD1625,CUST93,10.11.2023,clothing,Bluetooth Speaker,3,$35.18, France,,customer13@mail.com,1,0.34,Yes
+ORD1568,CUST251,2023/05/23,ELECTRONICS,Headphones,3,$120.15,United States,credit card,customer215@mail.com,,0.49,No
+ORD1660,CUST251,2023/09/28,Electronics,Shampoo,4,179.47,United Kingdom,UPI,customer274@mail.com,5,0.11,No
+ORD1039,CUST203,2024-06-30,  clothing  ,Yoga Mat,5,Rs.86.48, France,Cash on Delivery,customer187@mail.com,4,0.1,yes
+ORD1808,CUST140,2023-12-26,beauty ,,8,55.57,Australia,NA,customer163@mail.com,good,0.47,No
+ORD1168,CUST16,2024/05/29,  beauty   ,Bluetooth Speaker,9,124.94,India,PayPal,customer260@@mail.com,4,45%,Yes
+ORD1590,CUST75,2024/07/11,  Clothing  , Running Shoes,4,$92.12,  Australia  ,UPI,customer61@mail.com,2,0.04,1
+ORD1464,CUST167,20/07/2024,beauty ,Bluetooth Speaker,,64.17,United Kingdom,CREDIT CARD,customer161@mail.com,3,,no
+ORD1507,CUST100,08/03/2023,  Clothing  ,Gel Pen,1,63.72,UK,CREDIT CARD,customer245@mail.com,,42%,No
+ORD1442,CUST177,2024/02/10,clothing,,10,75.1,,UPI,customer227@@mail.com,1,,False
+ORD1910,CUST78,2024-07-02,Home and Kitchen,Wireless Mouse,4,free,  India  ,upi,customer78@mail.com,4,0.29,1
+ORD1066,CUST270,18-Oct-2023,  Electronics  ,Phone Case,8,83.73,Germany,PayPal,customer61@mail.com,3,0.06,Yes
+ORD1307,CUST177,03-14-2023,Beauty,Face Cream,-1,118.03,UK,Credit Card,customer177@mail.com,2,,No
+ORD1067,CUST21,2024/02/20,electronics,Wireless Mouse,0,165.28,india,NA,customer76@mail.com,5,0.04,
+ORD1198,CUST102,15-Nov-2023,Books,,6,148.08, France,paypal,customer266@mail.com,,0.01,Yes
+ORD1528,CUST187,24.07.2023,Electronics,Notebook,5,100.47,Germany,PayPal,customer212@mail.com,2,31%,No
+ORD1481,CUST22,06-Jul-2023,Home & Kitchen,T-Shirt,10,177.77,N/A,credit card,customer169@mail.com,1,36%,Yes
+ORD1759,CUST133,19-Jun-2023,Sports,Shampoo,1,64.49,unknown,,customer15@mail.com,2,13%,Yes
+ORD1989,CUST214,27/09/2024,Books ,Webcam HD,7,152.02,U.S.A,Debit Card,customer98@mail.com,4,0.26,Yes
+ORD1362,CUST261,06.05.2023,Sports,  wireless mouse  ,8,169.49,germany,credit card,CUSTOMER187@MAIL.COM,1,0.21,No
+ORD1846,CUST197,12-Jan-2024,Books ,Face Cream,1,25.98,INDIA,Credit Card,customer213@mail.com,,0.33,No
+ORD1558,CUST192,22-Jun-2023,electronics,Power Bank,1,91.22,United States,UPI,,3,,No
+ORD1618,CUST158,09/09/2023,clothing,  T-Shirt  ,5,21.84,unknown,credit card,,4,0.06,Yes
+ORD1352,CUST143,28-Sep-2023,ELECTRONICS,Webcam HD,3,7.19, France,PayPal,,2,44%,Yes
+ORD1762,CUST253,05.05.2024,Beauty,,1,171.09,USA,credit card,customer122@mail.com,,0.24,No
+ORD1993,CUST33,2024-03-25,Clothing,T-Shirt,8,150.29, France,paypal,customer34@mail.com,2,0.36,No
+ORD1292,CUST138,06.10.2024,Sports,USB-C Cable,1,52.14,,CREDIT CARD,customer240@mail.com,3,0.01,Yes
+ORD1754,CUST181,19.12.2023,Sports,  Wireless Mouse  ,4,37.6,Germany,UPI,customer273@mail.com,5,0.27,Yes
+ORD1100,CUST186,2023-07-17,clothing,Laptop Stand,7,60.06,unknown,NA,customer142@mail.com,3,0.33,No
+ORD1598,CUST156,2024/03/29,Clothing,Smart Watch ,3,87.16,United Kingdom,PayPal,customer50@mail.com,2,0.12,Yes
+ORD1939,CUST238,invalid_date,Books,Smart Watch ,8,131.86,  France  ,NA,customer82@mail.com,,,1
+ORD1810,CUST91,2024-01-17,Beauty,Notebook,-3,111.28,Germany,,customer148@mail.com,3,48%,Yes
+ORD1305,CUST118,2024/03/25,  Home & Kitchen  ,Shampoo,7,,Australia,NA,customer50@mail.com,4,47%,N
+ORD1628,CUST25,2024-10-26,Sports,Headphones,1,73.91,USA,Cash on Delivery,customer134@mail.com,5,0.36,No
+ORD1158,CUST121,10.08.2024,ELECTRONICS,Laptop Stand,4,102.61,india,,customer148@mail.com,4,0.14,False
+ORD1551,CUST239,2023/03/05,Home & Kitchen, Running Shoes,6,96.18,  United Kingdom  ,COD,customer90@mail.com,2,22%,No
+ORD1002,CUST128,2023-09-07,Home & Kitchen,  Face Cream  ,2,28.02,France,CREDIT CARD,customer40@mail.com,5,0.41,No
+ORD1767,CUST211,11.08.2024,Electronics,,7,64.23,germany,Cash on Delivery,customer94@mail.com,4,0.14,Yes
+ORD1208,CUST46,2023-07-17,Home and Kitchen,Yoga Mat,,175.22,U.S.A,UPI,,,1%,Yes
+ORD1299,CUST112,2023/05/07,Home and Kitchen,Power Bank,4,51.85,Australia,UPI,customer215@@mail.com,5,,Yes
+ORD1734,CUST295,2024-01-19,Home & Kitchen,,10,133.84,germany,Debit Card,customer235@mail.com,5,0.26,Y
+ORD1436,CUST152,2024/02/13,Books ,Smart Watch ,4,42.58,Australia,,customer14@mail.com,5,0.03,Yes
+ORD1652,CUST34,10/11/2023,electronics,Webcam HD,,26.53,United States,paypal,customer222@mail.com,2,5%,No
+ORD1411,CUST291,19-Nov-2024,Electronics,,five,199.18,germany,credit card,,,0.17,Yes
+ORD1614,CUST173,2023/05/20,Home and Kitchen,Gel Pen,1,74.12,United Kingdom,upi,customer143@mail.com,5,9%,no
+ORD1909,CUST217,02-18-2024,Electronics,  Headphones  ,6,53.99,,CREDIT CARD,CUSTOMER144@MAIL.COM,4,,yes
+ORD1814,,,  ELECTRONICS  ,Phone Case,8,78.65,  USA  ,Cash on Delivery,customer146@mail.com,4,0.23,False
+ORD1977,CUST7,12/11/2023,Clothing,Phone Case,4,169.51,India,COD,customer128@mail.com,3,0.31,yes
+ORD1964,CUST2,01.03.2024,Books,USB-C Cable,7,112.62,india,  upi  ,customer264@mail.com,4,,No
+ORD1932,CUST85,2023-07-25,Home & Kitchen, Running Shoes,9,-70.88,France,credit card,CUSTOMER210@MAIL.COM,4,0.41,No
+ORD1780,CUST282,23.01.2024,Books ,Laptop Stand,2,157.22,  United Kingdom  ,upi,customer42@mail.com,3,9%,Yes
+ORD1306,CUST43,28-Apr-2024,Home and Kitchen,Shampoo,8,free,United States,upi,customer122@mail.com,4,0.25,Yes
+ORD1600,CUST255,30-Nov-2024,Electronics,Bluetooth Speaker,5,94.88,Germany,UPI,customer26@mail.com,1,0.18,No
+ORD1493,CUST86,20-Feb-2024,Sports,Wireless Mouse,4,$95.72,Australia,Cash on Delivery,,1,0.22,No
+ORD1423,CUST24,23.06.2024,Books,USB-C Cable,1,80.01,N/A,,customer189@mail.com,3,0.23,Yes
+ORD1298,CUST282,02-12-2024,Beauty,wireless mouse,8,19.89,France,Debit Card,customer276@mail.com,5,0.29,No
+ORD1467,CUST15,11-Oct-2024,Books,Webcam HD,3,Rs.21.71,germany,paypal,customer264@mail.com,2,0.05,Yes
+ORD1886,CUST101,11/05/2024,  Electronics  ,Face Cream,9,free,UK,,,4,0.46,No
+ORD1757,CUST216,09-29-2023,Clothing,Laptop Stand,9,$96.8,india,CREDIT CARD,customer216@mail.com,1,,
+ORD1096,CUST249,07-31-2024,Home and Kitchen,Shampoo,9,67.75,INDIA,,customer129@mail.com,1,1%,1
+,,,,,,,,,,,,
+ORD1055,CUST183,30-Mar-2023,Clothing,Phone Case,9,102.73,United Kingdom,COD,customer18@mail.com,3,0.43,No
+ORD1120,cust112,09-09-2024,Clothing,Headphones,3,Rs.122.2,  France  ,,customer8@mail.com,1,20%,Yes
+ORD1310,CUST265,2023-08-15,Books ,Notebook,10,118.3,India,credit card,customer175@mail.com,1,,No
+ORD1025,CUST192,30.01.2023,beauty ,Gel Pen,2,14.65,unknown,paypal,customer26@mail.com,5,30%,No
+ORD1072,CUST171,16/01/2023,Home and Kitchen,Headphones,7,122.35,unknown,UPI,customer81@mail.com,1,9%,Yes
+ORD1530,CUST295,15/11/2024,Electronics,T-Shirt,1,51.48,United States,  upi  ,customer87@mail.com,2,,yes
+ORD1044,CUST252,19.06.2023,electronics,Denim Jacket,5,35.96,Germany,COD,customer107@mail.com,5,0.16,yes
+ORD1275,CUST212,18.10.2023,Home & Kitchen,Smart Watch ,1,48.34,  UK  ,NA,CUSTOMER159@MAIL.COM,5,0.14,No
+ORD1478,CUST31,01-19-2023,Electronics,USB-C Cable,0,9.68,Australia,Credit Card,customer136@mail.com,2,0.22,Yes
+ORD1314,CUST10,31-Aug-2024,electronics,  Shampoo  ,4,167.37,U.S.A,credit card,customer3@mail.com,5,0.09,No
+ORD1336,CUST32,12-14-2023,electronics,  Denim Jacket  ,9,102.81,United Kingdom,upi,customer126@mail.com,,0.32,No
+ORD1858,CUST293,06-05-2024,ELECTRONICS,Headphones,9999,192.52,United States,COD,customer26@mail.com,3,0.14,Yes
+ORD1430,CUST191,27.01.2023,beauty ,Notebook,5,110.17,Australia,Cash on Delivery,customer276@mail.com,1,0.13,True
+ORD1952,CUST14,09-20-2023,Books ,Bluetooth Speaker,6,192.08,india,,customer140@mail.com,1,0.49,N
+ORD1682,CUST264,05.08.2023,ELECTRONICS,Yoga Mat,7,100.18,United Kingdom,,,2,0.49,1
+ORD1588,CUST139,2023-07-27,beauty ,,,Rs.83.24,USA,paypal,customer200@@mail.com,4,23%,No
+ORD1673,CUST79,27/07/2024,electronics,Headphones,4,159.08,N/A,COD,customer12@mail.com,1,0.24,Yes
+ORD1327,CUST194,2023/02/03,Beauty,wireless mouse,7,95.41,N/A,CREDIT CARD,,5,0.36,True
+ORD1807,CUST161,22.11.2023,Books,Yoga Mat,2,free,U.S.A,,customer13@mail.com,3,0.32,Yes
+ORD1603,CUST19,2024/04/05,Books,Laptop Stand,8,187.79,  Germany  ,  Credit Card  ,customer153@mail.com,5,0.06,No
+ORD1720,CUST137,2024-08-21,electronics,Power Bank,4,100.94,India,,customer60@mail.com,4,0.18,no
+ORD1982,CUST36,08/05/2023,Electronics,Denim Jacket,,174.78,France,CREDIT CARD,customer148@mail.com,5,0.07,No
+ORD1778,CUST263,2024/02/25,Books,Notebook,3,65.6,India,CREDIT CARD,customer75@mail.com,1,14%,Yes
+ORD1764,CUST143,15/06/2023,Clothing,Webcam HD,7,59300.0,U.S.A,NA,customer39@mail.com,4,10%,True
+ORD1331,CUST85,2024-10-22,  Home and Kitchen  ,T-Shirt,3,173.81,  India  ,credit card,,5,0.47,No
+ORD1060,CUST190,12/04/2024,beauty ,USB-C Cable,10,Rs.74.32,Germany,Cash on Delivery,customer215@@mail.com,3,0.05,No
+ORD1746,CUST21,03-May-2024,electronics,Gel Pen,9,13.75,USA,CREDIT CARD,customer11@mail.com,1,0.0,No
+ORD1320,CUST163,04.03.2024,electronics,Notebook,2,128.96,France,PayPal,customer215@mail.com,3,0.28,No
+ORD1092,CUST265,04-20-2024,Beauty,Wireless Mouse,9,49.71,Australia,,customer216@mail.com,4,0.45,Yes
+ORD1723,CUST240,25-Aug-2023,Sports,Yoga Mat,10,,N/A,NA,customer122@mail.com,good,0.37,Yes
+ORD1490,CUST157,09-01-2024,electronics,USB-C Cable,3,156.1,United States,Debit Card,customer88@mail.com,2,0.01,1
+ORD1462,CUST176,22-Feb-2024,Books,Gel Pen,6,191.49,N/A,Cash on Delivery,customer151@mail.com,1,0.35,No
+ORD1218,CUST260,31.08.2023,electronics,  Power Bank  ,1,56.98,INDIA,UPI,CUSTOMER213@MAIL.COM,5,0.09,Yes
+ORD1513,CUST25,2024/11/24,Beauty,  wireless mouse  ,-1,22.89,  unknown  ,  Cash on Delivery  ,customer145@mail.com,4,37%,No
+ORD1620,CUST115,2024/08/21,Home & Kitchen,Phone Case,5,86.45,UK,credit card,customer105@mail.com,1,0.16,N
+ORD1425,CUST31,10-23-2024,  electronics  ,Phone Case,7,61.48,India,,customer86@mail.com,1,0.03,No
+ORD1332,CUST170,17.02.2023,ELECTRONICS,USB-C Cable,9999,174.43, France,COD,customer277@mail.com,2,0.16,Yes
+ORD1859,cust126,16/08/2023,Books ,  Denim Jacket  ,,135.55,United Kingdom,  Cash on Delivery  ,customer87@mail.com,5,29%,
+ORD1934,CUST27,2024-09-27,Sports,Power Bank,9,50.62,United Kingdom,,customer111@mail.com,3,0.1,No
+ORD1582,CUST168,11.08.2024,Electronics,Shampoo,7,135.62,U.S.A,COD,customer113@mail.com,5,0.24,No
+ORD1355,CUST286,06/06/2024,clothing,Shampoo,4,95.91,India,,customer58@mail.com,4,0.38,No
+ORD1482,CUST228,2024-11-10,Books,  Yoga Mat  ,five,$51.64,United States,CREDIT CARD,customer143@mail.com,2,0.3,True
+ORD1545,CUST269,2023-02-28,beauty ,USB-C Cable,7,41.92, France,CREDIT CARD,customer113@@mail.com,5,4%,No
+ORD1110,CUST153,13-Jan-2024,Home & Kitchen,Notebook,1,170.38,unknown,,,3,0.47,Yes
+ORD1514,CUST300,2023/01/20,Electronics,Headphones,10,94.05, France,paypal,customer210@mail.com,4,40%,No
+ORD1602,CUST278,,  clothing  ,Headphones,3,71.12,germany,COD,,,0.49,Yes
+ORD1784,cust72,15.04.2024,Books,  wireless mouse  ,8,165.03, France,Credit Card,customer275@mail.com,2,,Yes
+ORD1507,CUST100,08/03/2023,Clothing,Gel Pen,1,63.72,UK,CREDIT CARD,customer245@mail.com,,42%,No
+ORD1334,CUST107,27/04/2024,  electronics  ,,8,101.03,India,,customer261@@mail.com,3,15%,No
+ORD1850,CUST41,2023/02/28,Sports,USB-C Cable,7,40.5,France,Cash on Delivery,CUSTOMER261@MAIL.COM,3,0.24,1
+ORD1294,CUST234,2024/07/02,electronics,,2,34.63,N/A,Credit Card,customer216@mail.com,3,,Y
+ORD1286,CUST31,31.03.2024,Sports,Laptop Stand,,119.77,United Kingdom,PayPal,customer118@mail.com,2,0.16,Yes
+ORD1940,CUST48,13.06.2024,clothing,Headphones,9,Rs.78.42,USA,Credit Card,customer83@mail.com,,0.05,No
+ORD1447,CUST109,2023/12/02,Sports,Yoga Mat,6,147.42,UK,  Cash on Delivery  ,,3,6%,Yes
+ORD1693,CUST163,06-29-2024,beauty ,T-Shirt,1,58.9,U.S.A,Credit Card,customer168@mail.com,4,0.16,No
+ORD1652,CUST270,05/02/2023,Beauty,,10,65.11,Germany,CREDIT CARD,customer221@mail.com,3,0.43,No
+ORD1899,CUST193,10-06-2023,Home and Kitchen,,-4,185.79,Australia,Credit Card,customer49@mail.com,7,0.14,no
+ORD1277,CUST269,05-21-2024,Electronics,Power Bank,4,87.92,UK,Credit Card,customer141@@mail.com,4,33%,Yes
+ORD1760,CUST288,2024/09/19,Home & Kitchen,Laptop Stand,8,108.96,india,PayPal,customer160@mail.com,4,0.42,0
+ORD1137,CUST214,2024-02-21,Home & Kitchen,Power Bank,1,41.3,Germany,credit card,customer285@mail.com,4,0.15,1
+ORD1501,CUST208,06/10/2023,Home & Kitchen,Shampoo,3,161.79, France,NA,customer236@mail.com,2,0.11,N
+ORD1404,CUST284,2024-03-22,  Home and Kitchen  ,wireless mouse,1,54.79,United States,UPI,customer44@mail.com,1,0.14,Yes
+ORD1523,CUST269,2023-06-16,Electronics,Laptop Stand,9,31.08,UK,CREDIT CARD,customer145@mail.com,3,40%,Yes
+ORD1997,CUST218,16-Mar-2023,ELECTRONICS,wireless mouse,7,104.32,France,COD,customer145@mail.com,10,0.22,Yes
+ORD1979,CUST288,2024-04-12,electronics,Headphones,2,183.3,USA,,customer171@mail.com,3,0.06,yes
+ORD1580,CUST130,19.02.2024,Home and Kitchen,Denim Jacket,7,69.66,germany,credit card,,10,15%,1
+ORD1237,CUST293,2023/11/24,Beauty,Face Cream,3,165.32,USA,credit card,customer263@@mail.com,3,0.04,Yes
+ORD1990,CUST121,invalid_date,ELECTRONICS,Webcam HD,6,9.99,France,  UPI  ,customer300@mail.com,2,0.07,No
+ORD1215,CUST115,15/08/2023,electronics, Running Shoes,8,46.39,,NA,customer238@mail.com,5,0.46,
+ORD1774,,10/07/2023,Electronics,Bluetooth Speaker,-5,179.88,Germany,,customer93@@mail.com,3,30%,
+ORD1244,CUST130,invalid_date,Clothing,Denim Jacket,7,27.25,India,credit card,customer12@mail.com,2,,No
+ORD1552,CUST205,13/05/2023,Beauty,Shampoo,7,Rs.44.48,  N/A  ,  PayPal  ,CUSTOMER56@MAIL.COM,1,0.21,Yes
+ORD1889,CUST159,2023/01/05,beauty ,T-Shirt,6,91.4,N/A,PayPal,customer238@mail.com,4,0.49,Yes
+ORD1796,CUST297,2023-12-08,Clothing,Face Cream,1,122.48,  U.S.A  ,Credit Card,customer227@mail.com,2,0.23,
+ORD1668,cust97,20.02.2023,Home and Kitchen,Phone Case,6,130.99, France,Debit Card,customer204@mail.com,1,17%,Yes
+ORD1621,CUST103,2023-09-16,Home & Kitchen,Smart Watch ,10,127.52,UK,NA,customer80@mail.com,3,45%,No
+ORD1078,CUST123,13-Jan-2023,Electronics,Webcam HD,4,20.17, France,,customer198@mail.com,1,0.17,No
+ORD1029,CUST156,24.06.2024,electronics,Bluetooth Speaker,10,42.38,India,Credit Card,customer162@mail.com,2,0.12,1
+ORD1450,,2023/10/03,electronics,Headphones,10,85.6,United States,Credit Card,customer258@mail.com,5,18%,False
+ORD1289,CUST269,06/10/2023,Books ,  Face Cream  ,10,45.34,France,,customer222@mail.com,3,6%,No
+ORD1049,CUST4,2024-04-21,Clothing,USB-C Cable,1,29.04,Germany,,,4,0.46,No
+ORD1867,CUST143,2023/01/08,  Beauty  ,T-Shirt,3,14.85,N/A,paypal,customer257@mail.com,1,0.22,No
+ORD1664,CUST195,30/05/2023,Books , Running Shoes,4,181.56,U.S.A,COD,customer4@mail.com,4,43%,yes
+ORD1949,CUST150,13.07.2023,  Electronics  ,Bluetooth Speaker,6,,unknown,upi,customer63@mail.com,2,0.2,1
+ORD1165,CUST174,,Clothing,Denim Jacket,2,24.12,  UK  ,COD,customer226@mail.com,5,0.03,No
+ORD1946,CUST114,06-16-2023,Home and Kitchen,,8,124.67,  INDIA  ,Credit Card,,1,0.46,No
+ORD1178,CUST174,16-Aug-2023,Home and Kitchen,USB-C Cable,five,Rs.89.21,United States,PayPal,customer136@mail.com,4,0.07,No
+ORD1694,CUST227,03-27-2024,Clothing,Denim Jacket,7,116.75, France,  NA  ,customer49@mail.com,5,0.41,No
+ORD1065,CUST239,2024-11-23,Books,Wireless Mouse,-1,138.1,France,NA,customer74@mail.com,9,0.17,No
+ORD1141,CUST133,05.06.2023,Electronics,T-Shirt,5,48.56,INDIA,Debit Card,customer206@mail.com,good,0.06,Yes
+ORD1987,CUST300,2023/06/13,beauty ,Face Cream,4,78.51,UK,  COD  ,customer263@mail.com,3,0.05,No
+ORD1351,CUST228,,Sports,Bluetooth Speaker,8,65.34,  United States  ,NA,customer78@mail.com,,0.14,Yes
+ORD1863,CUST96,2024/07/10,Books,Notebook,6,166.49,USA,  Credit Card  ,customer28@mail.com,4,0.11,N
+ORD1440,CUST195,13-Jul-2024,Home & Kitchen,,7,27.51,Australia,UPI,customer247@mail.com,good,0.21,No
+ORD1346,CUST85,2023/04/26,Electronics,Yoga Mat,8,174.59,UK,COD,,1,0.23,0
+ORD1254,CUST185,15-Apr-2024,ELECTRONICS,Gel Pen,3,22.27,UK,COD,customer283@mail.com,3,0.14,no
+ORD1695,CUST72,04-30-2024,Home & Kitchen,Power Bank,4,16.69,N/A,upi,customer38@mail.com,8,,Yes
+ORD1344,cust142,25/10/2024,electronics,  Laptop Stand  ,9,152.91,Australia,CREDIT CARD,CUSTOMER112@MAIL.COM,1,0.49,No
+ORD1221,CUST183,2024/05/03,Electronics,Headphones,1,93.26,india,paypal,customer170@mail.com,3,0.21,No
+ORD1235,CUST273,2024-11-21,Home & Kitchen,  Headphones  ,3,199.7,unknown,upi,customer235@mail.com,3,0.03,No
+ORD1547,CUST74,21.07.2023,Beauty,Laptop Stand,9,138.68,N/A,paypal,customer153@mail.com,5,,Yes
+ORD1499,CUST268,2023/04/16,Beauty,  Shampoo  ,10,157.13,UK,  UPI  ,,3,0.13,False
+ORD1595,CUST46,04-21-2024,  Home & Kitchen  ,Power Bank,3,93.23,Australia,credit card,customer43@mail.com,,0.04,True
+ORD1961,CUST145,03-Jul-2024,Home & Kitchen,Bluetooth Speaker,5,198.23,United States,  Debit Card  ,,1,36%,0
+ORD1249,CUST9,31.03.2024,Sports,Face Cream,2,24.96,Australia,UPI,customer187@mail.com,4,1%,no
+ORD1929,CUST250,27-Aug-2024,Clothing,USB-C Cable,9,,U.S.A,Debit Card,customer294@mail.com,3,,Yes
+ORD1381,cust221,16/09/2023,Home & Kitchen,Denim Jacket,,Rs.184.7,india,,customer31@mail.com,2,36%,No
+ORD1071,CUST160,2024/05/13,Sports,Face Cream,3,33.26, France,,customer232@mail.com,5,,False
+ORD1094,CUST6,2024-07-20,electronics,,-1,43.35,Germany,    ,customer102@mail.com,1,33%,Yes
+ORD1033,CUST222,07-20-2023,Home & Kitchen,Denim Jacket,8,10.91,Australia,Credit Card,customer32@mail.com,1,0.17,False
+ORD1259,CUST14,09-Mar-2024,electronics,,6,7.44,Germany,Cash on Delivery,customer193@mail.com,good,42%,1
+ORD1204,CUST246,29-Aug-2024,beauty ,Power Bank,9,,INDIA,upi,customer182@mail.com,3,,No
+ORD1359,CUST167,01/07/2023,  electronics  ,Wireless Mouse,2,92720.0,U.S.A,upi,customer278@mail.com,1,0.19,No
+ORD1601,CUST258,01-07-2024,beauty ,Face Cream,6,101.0,,Cash on Delivery,customer257@mail.com,1,0.09,Yes
+ORD1398,CUST274,16-Aug-2024,Electronics,T-Shirt,2,,USA,CREDIT CARD,customer181@mail.com,1,0.38,No
+ORD1077,CUST132,2024-07-20,beauty ,Shampoo,five,33.24,UK,,customer54@mail.com,3,7%,No
+ORD1084,CUST296,2024-03-30,ELECTRONICS,wireless mouse,8,101.25,Germany,credit card,customer117@mail.com,2,0.23,Yes
+ORD1319,CUST225,05-27-2024,ELECTRONICS,Face Cream,-5,21.78,U.S.A,upi,customer3@mail.com,2,0.11,Yes
+ORD1082,CUST34,2023/02/26,Books,Shampoo,,84.86,U.S.A,,customer188@mail.com,8,0.43,No
+ORD1773,CUST232,12/12/2023,Beauty,Bluetooth Speaker,3,153.52, France,  paypal  ,customer191@mail.com,good,22%,No
+ORD1708,CUST213,2023-06-28,electronics,  wireless mouse  ,5,$22.32,germany,Cash on Delivery,customer245@mail.com,,0.33,No
+ORD1538,CUST274,21-Aug-2023,  Beauty  ,Smart Watch ,five,83.46,  UK  ,upi,customer90@mail.com,2,13%,Yes
+ORD1543,CUST194,06.02.2023,Electronics,Notebook,5,29.32,unknown,,customer131@mail.com,5,0.42,Yes
+ORD1827,CUST17,2023-07-01,  beauty   ,Yoga Mat,,5.01,INDIA,Debit Card,customer209@mail.com,1,0.45,
+ORD1428,CUST226,11/03/2023,Books,Bluetooth Speaker,5,111.69,Australia,,customer290@mail.com,,0.33,Yes
+ORD1309,CUST137,2024-04-24,Electronics,  Bluetooth Speaker  ,2,181.07,  India  ,PayPal,customer47@mail.com,1,24%,True
+ORD1003,CUST274,09.05.2023,Books,wireless mouse,9,81.51,USA,COD,customer107@mail.com,1,,Yes
+ORD1790,CUST110,2023-09-20,Home and Kitchen,T-Shirt,10,158.09,INDIA,paypal,customer41@@mail.com,3,38%,No
+ORD1104,CUST31,05/04/2023,Books,Shampoo,4,$142.6,unknown,CREDIT CARD,customer73@mail.com,2,,No
+ORD1097,cust249,31/03/2023,  Electronics  ,Phone Case,6,27.4,Australia,upi,customer180@mail.com,4,18%,No
+ORD1296,CUST100,2023/02/11,ELECTRONICS,Yoga Mat,9,22.55,USA,,customer1@mail.com,1,46%,yes
+ORD1408,,13.02.2024,  electronics  ,,10,$180.83,USA,,customer58@mail.com,3,0.41,Yes
+ORD1445,CUST11,2024/03/26,Books,Phone Case,2,-71.05,UK,paypal,customer189@mail.com,1,0.44,1
+ORD1905,CUST233,2024/01/13,Home & Kitchen,Bluetooth Speaker,9,189.8,Germany,Debit Card,customer117@mail.com,,31%,Yes
+ORD1281,CUST299,2024-01-06,beauty ,USB-C Cable,10,169.04,india,Cash on Delivery,customer75@mail.com,4,0.07,No
+ORD1266,CUST178,11-May-2023,  clothing  ,USB-C Cable,6,91.65,,UPI,customer231@mail.com,,0.21,No
+ORD1740,CUST173,02-21-2023,Books ,Bluetooth Speaker,6,,N/A,UPI,customer269@@mail.com,5,0.27,No
+ORD1999,cust47,2023/09/22,  ELECTRONICS  ,  Bluetooth Speaker  ,9,30.4,United States,credit card,customer70@mail.com,5,0.46,Yes
+ORD1534,CUST194,2024-05-08,beauty ,Gel Pen,10,106.36,india,Credit Card,customer165@mail.com,5,0.41,yes
+ORD1432,,21/07/2024,Books ,Face Cream,6,172.53,  France  ,PayPal,customer265@mail.com,3,0.37,Yes
+ORD1913,CUST194,10-13-2023,Sports,Shampoo,7,179.89,,Debit Card,customer284@mail.com,2,0.03,yes
+ORD1656,CUST198,17.08.2023,Home & Kitchen,wireless mouse,10,103.41,U.S.A,UPI,customer226@mail.com,good,0.12,No
+ORD1118,CUST208,11-18-2024,beauty ,Denim Jacket,4,,UK,Credit Card,customer203@mail.com,3,0.29,Y
+ORD1405,CUST258,2023-10-31,Electronics,Phone Case,7,28.03,germany,credit card,customer230@mail.com,1,0.2,No
+ORD1250,CUST47,14/03/2023,Beauty,Smart Watch ,6,$168.72,USA,PayPal,customer58@mail.com,good,44%,Y
+ORD1377,CUST195,2024-01-06,Sports,  Power Bank  ,6,$185.45,USA,COD,customer209@mail.com,3,21%,Yes
+ORD1615,CUST44,2023/05/31,Home & Kitchen,Laptop Stand,2,148.02,United Kingdom,  Debit Card  ,,,23%,Yes
+ORD1009,CUST103,10-13-2024,Books , Running Shoes,2,146.34,U.S.A,Credit Card,customer75@mail.com,5,0.33,Yes
+ORD1357,CUST82,2023/03/21,beauty ,Wireless Mouse,5,194.1,unknown,  Credit Card  ,,2,38%,Yes
+ORD1173,CUST211,03/08/2024,Electronics,  Webcam HD  ,5,54.38,Australia,Cash on Delivery,customer173@mail.com,1,,No
+ORD1631,CUST167,2023/07/06,Home and Kitchen,T-Shirt,3,38.33,,CREDIT CARD,,2,0.19,No
+ORD1081,CUST270,11-Feb-2023,ELECTRONICS,Webcam HD,4,143.77,INDIA,credit card,customer90@mail.com,5,0.31,Y
+ORD1526,,03-26-2024,clothing,Notebook,,119.63,india,upi,customer292@mail.com,5,0.41,No
+ORD1832,CUST13,,  clothing  ,Gel Pen,8,147.7,UK,  UPI  ,customer104@mail.com,3,0.17,no
+ORD1907,CUST243,09/09/2024,Home & Kitchen,  Headphones  ,1,97.48,INDIA,,CUSTOMER281@MAIL.COM,2,19%,Yes
+ORD1239,,02.03.2023,Books,Gel Pen,10,,  unknown  ,Cash on Delivery,customer113@mail.com,5,44%,Yes
+ORD1107,CUST276,02-22-2023,Home and Kitchen,  Smart Watch   ,5,157.01,USA,CREDIT CARD,customer231@mail.com,3,0.26,Yes
+ORD1211,CUST246,21/09/2024,clothing,Power Bank,10,165.14,  France  ,  upi  ,customer173@mail.com,5,0.14,Yes
+ORD1749,CUST261,2023/10/19,  Home and Kitchen  ,,4,34.67,INDIA,upi,customer281@mail.com,3,,No
+ORD1505,CUST195,13-Apr-2024,Books ,Wireless Mouse,1,32.26,germany,NA,customer32@mail.com,2,0.09,Yes
+ORD1497,CUST199,26.06.2024,Home and Kitchen,Denim Jacket,4,53.62,UK,Debit Card,customer105@mail.com,5,13%,1
+ORD1227,,16.03.2024,clothing,Smart Watch ,,127.53, France,  PayPal  ,customer278@mail.com,3,45%,Y
+ORD1893,CUST104,08-Aug-2024,  Books  ,Gel Pen,7,149.7,India,PayPal,customer164@mail.com,1,0.35,Yes
+ORD1816,CUST151,29.10.2024,Home & Kitchen,  USB-C Cable  ,2,69.59,INDIA,  upi  ,customer122@mail.com,2,,Yes
+ORD1830,CUST89,2024/11/27,clothing,Shampoo,8,22.8,Australia,,customer28@mail.com,1,0.08,no
+ORD1177,,12.04.2023,clothing,Wireless Mouse,8,27.59,,credit card,customer119@mail.com,1,4%,0
+ORD1976,CUST170,2024/05/29,electronics,Face Cream,4,102.85, France,  COD  ,customer281@mail.com,7,0.17,No
+ORD1433,CUST291,02.08.2024,Clothing,  Smart Watch   ,5,59.56,india,Credit Card,customer158@mail.com,2,0.09,no
+ORD1945,cust80,10-02-2023,Sports,Notebook,9,84.83,N/A,UPI,,3,,Yes
+ORD1516,CUST200,22/03/2023,Home & Kitchen,Smart Watch ,3,70.28,Australia,NA,customer146@mail.com,1,0.2,No
+ORD1350,CUST248,,  Home & Kitchen  ,Phone Case,5,191.98,INDIA,credit card,customer265@mail.com,3,0.16,Yes
+ORD1518,CUST263,25/06/2023,Home and Kitchen,,7,27.28,U.S.A,upi,customer288@mail.com,1,0.35,no
+ORD1007,CUST279,02.11.2023,clothing,Notebook,3,74.36,France,    ,customer100@mail.com,4,0.11,No
+ORD1155,CUST244,24-Mar-2024,Home and Kitchen,T-Shirt,8,57.04,unknown,PayPal,customer162@mail.com,8,0.24,No
+ORD1703,CUST125,2024-10-07,Home and Kitchen,Smart Watch ,10,59.99,Australia,CREDIT CARD,customer11@mail.com,4,0.02,No
+ORD1496,CUST39,03-01-2024,Beauty,Bluetooth Speaker,2,$33.92,india,paypal,CUSTOMER71@MAIL.COM,5,,Yes
+ORD1329,CUST227,01-23-2024,  Beauty  ,,2,47.34,india,UPI,customer284@mail.com,4,0.26,0
+ORD1542,CUST42,2023-09-12,beauty ,Phone Case,9,55.03,Germany,COD,customer300@mail.com,1,,Yes
+ORD1439,CUST241,14-May-2023,electronics,Bluetooth Speaker,9,82.23,N/A,credit card,customer239@mail.com,1,,Yes
+ORD1811,cust221,2024-03-09,Home & Kitchen,T-Shirt,8,34.5,INDIA,  Debit Card  ,customer264@@mail.com,2,0.49,Yes
+ORD1902,CUST41,09-25-2023,Electronics,USB-C Cable,9,70.19,germany,Credit Card,customer291@mail.com,5,0.23,1
+ORD1370,CUST178,07-Jul-2023,ELECTRONICS,Gel Pen,10,31.11,U.S.A,Debit Card,customer131@mail.com,3,0.45,Yes
+ORD1604,CUST240,25-Sep-2023,Books,Denim Jacket,8,158.23,INDIA,NA,customer27@mail.com,2,0.18,No
+ORD1998,,18/09/2023,Books,Face Cream,10,88.94,india,CREDIT CARD,customer277@mail.com,2,0.37,no
+ORD1593,CUST268,31.08.2023,Clothing,Headphones,10,124.68,UK,credit card,customer5@mail.com,1,17%,Yes
+ORD1873,CUST68,04.10.2024,Beauty,  Webcam HD  ,7,7.9,United States,Debit Card,,3,0.11,
+ORD1554,CUST174,2024-11-14,clothing,Smart Watch ,1,124.54,UK,NA,customer279@mail.com,1,0.45,No
+ORD1755,,26.05.2024,beauty ,Notebook,9,195.14,Australia,PayPal,customer289@mail.com,2,,No
+ORD1739,CUST211,04.02.2024,  Sports  ,  Webcam HD  ,6,140.62,INDIA,  Credit Card  ,customer12@@mail.com,6,0.12,Yes
+ORD1532,CUST8,2023-04-11,Books,Power Bank,6,169.44,India,COD,customer49@mail.com,3,0.16,Yes
+ORD1868,CUST6,16-Jul-2023,Books,Webcam HD,5,28.7,  United States  ,PayPal,customer21@mail.com,1,0.07,yes
+ORD1228,CUST110,10-Nov-2023,Books ,Power Bank,7,132.65, France,,,3,,False
+ORD1390,CUST150,09-27-2024,Home and Kitchen,Denim Jacket,4,199.31,unknown,COD,customer241@mail.com,1,0.21,No
+ORD1761,CUST33,2023-05-04,Books ,,5,72.26,N/A,upi,customer236@mail.com,5,17%,Yes
+ORD1212,CUST24,10-Aug-2024,Home and Kitchen,Wireless Mouse,9999,-156.53,  Germany  ,credit card,customer132@mail.com,,0.18,Y
+ORD1079,CUST188,28/02/2023,ELECTRONICS,Face Cream,5,86.56,India,UPI,customer134@mail.com,3,0.24,True
+ORD1148,CUST26,05.04.2023,ELECTRONICS,Shampoo,8,31.31,germany,Credit Card,customer85@mail.com,5,37%,Yes
+ORD1302,CUST38,2024/01/27,  Electronics  ,Denim Jacket,5,54.64,india,Debit Card,customer174@mail.com,,0.17,No
+ORD1448,CUST145,29-Jun-2024,beauty ,,9,98.85, France,credit card,customer146@mail.com,10,0.29,True
+ORD1361,CUST228,08.07.2023,Clothing,  Laptop Stand  ,1,181.32,France,  UPI  ,customer258@mail.com,5,30%,Yes
+ORD1531,CUST289,19.01.2024,electronics,Shampoo,9999,174.65,United States,PayPal,customer205@mail.com,4,0.1,No
+ORD1529,CUST116,20/03/2024,electronics,Notebook,5,23.52,United States,UPI,CUSTOMER296@MAIL.COM,5,0.11,No
+ORD1043,CUST243,03-Jan-2024,beauty ,Notebook,1,free,France,NA,customer194@mail.com,2,4%,Yes
+ORD1900,CUST225,2023-11-27,Home and Kitchen,  Bluetooth Speaker  ,2,35.24,INDIA,Credit Card,CUSTOMER103@MAIL.COM,,0.4,N
+ORD1133,CUST229,04.05.2024,ELECTRONICS,Wireless Mouse,6,100.31,   France  ,PayPal,CUSTOMER103@MAIL.COM,8,11%,No
+ORD1575,CUST23,13/11/2024,  electronics  ,Denim Jacket,6,96.11,Australia,,customer178@mail.com,4,0.04,No
+ORD1311,CUST156,11-Dec-2023,Clothing,Phone Case,0,71.07,United Kingdom,Cash on Delivery,customer55@mail.com,1,0.43,False
+ORD1634,CUST108,2024-11-21,Beauty,Face Cream,3,61.24,USA,Debit Card,customer85@mail.com,5,,No
+ORD1567,CUST229,06/09/2024,Sports,Shampoo,2,52.32,UK,paypal,customer155@mail.com,2,0.23,Y
+ORD1435,CUST114,2023/08/15,Clothing,Face Cream,7,$169.25,U.S.A,UPI,customer104@mail.com,5,0.21,No
+ORD1000,CUST78,2024-07-02,  beauty   ,Power Bank,0,Rs.89.56,INDIA,PayPal,customer115@mail.com,5,0.29,Yes
+ORD1477,CUST31,2024/07/19,Clothing,USB-C Cable,3,43.69,France,CREDIT CARD,,5,0.14,Yes
+ORD1316,CUST143,2023/05/26,Clothing,Shampoo,3,45.33,Australia,credit card,customer45@mail.com,1,0.26,No
+ORD1991,CUST116,2023-10-26,beauty ,T-Shirt,0,157.72,USA,credit card,customer121@mail.com,3,0.44,No
+ORD1572,CUST78,2023-08-03,Clothing,Webcam HD,1,76.63,germany,UPI,customer125@mail.com,1,0.01,Yes
+ORD1380,CUST34,2024-04-28,Clothing,Smart Watch ,5,127.5,UK,PayPal,,1,31%,False
+ORD1834,CUST176,24.08.2024,Beauty,,6,$178.96,,CREDIT CARD,customer45@mail.com,2,0.1,No
+ORD1974,CUST66,,  Sports  ,Wireless Mouse,1,131.67, France,NA,customer252@mail.com,1,0.44,1
+ORD1954,CUST24,29-Mar-2023,Clothing, Running Shoes,10,163.42,,PayPal,customer6@mail.com,4,0.49,Yes
+ORD1172,CUST173,14/04/2024,Books,Gel Pen,7,186.62,INDIA,,customer7@mail.com,4,0.49,0
+ORD1125,,20/03/2024,Home and Kitchen,Smart Watch ,8,47.24,United States,COD,customer70@mail.com,3,0%,Yes
+ORD1667,CUST176,25.07.2024,electronics,Denim Jacket,7,24.41,Australia,paypal,customer244@mail.com,5,0.17,No
+ORD1589,CUST159,31.01.2024,Home & Kitchen,Wireless Mouse,-3,140.04,unknown,Cash on Delivery,customer12@@mail.com,,0.11,Yes
+ORD1836,CUST276,08-08-2024,Books ,Laptop Stand,1,17.73,U.S.A,Debit Card,customer250@mail.com,1,15%,No
+ORD1941,CUST212,2023/12/17,Books ,Power Bank,10,$53.17,Germany,    ,customer179@mail.com,4,6%,No
+ORD1090,CUST66,2024/02/25,Sports,Laptop Stand,5,175.19,Australia,  COD  ,customer181@mail.com,5,0.32,0
+ORD1980,CUST54,02-17-2023,Beauty,,5,88.51,India,upi,CUSTOMER13@MAIL.COM,4,0.02,No
+ORD1181,CUST252,10/08/2023,Beauty,Smart Watch ,6,11.19,N/A,,customer123@mail.com,1,16%,No
+ORD1363,CUST119,31.01.2024,ELECTRONICS,wireless mouse,10,156.97,,,customer265@mail.com,4,33%,Yes
+ORD1274,CUST227,07-30-2023,Books ,Power Bank,7,free, France,,customer147@mail.com,good,0.07,Y
+ORD1933,CUST145,09-Apr-2024,ELECTRONICS,T-Shirt,10,132.61,India,Credit Card,customer90@@mail.com,5,0.11,Yes
+ORD1069,CUST216,invalid_date,Sports,Laptop Stand,7,free,,Debit Card,customer5@mail.com,1,0.43,No
+ORD1291,CUST157,01-May-2023,beauty ,Phone Case,4,190.63,  France  ,UPI,customer23@mail.com,,,No
+ORD1131,CUST202,06.11.2024,beauty ,Headphones,5,56.14, France,  PayPal  ,customer34@mail.com,5,,yes
+ORD1300,CUST238,10-Apr-2023,Books,Notebook,8,174.22, France,,customer298@mail.com,3,,No
+ORD1605,CUST78,01-Apr-2024,Home & Kitchen,,,110110.0,Australia,paypal,customer207@mail.com,8,0.27,False
+ORD1068,CUST6,06-29-2023,electronics,USB-C Cable,4,114.64,India,CREDIT CARD,customer265@mail.com,6,41%,No
+ORD1144,CUST181,06-17-2023,Home & Kitchen,Wireless Mouse,8,64.16,USA,Debit Card,customer61@mail.com,2,34%,Y
+ORD1675,CUST152,01/02/2023,Books,T-Shirt,10,194.24,  United Kingdom  ,,customer294@mail.com,good,18%,No
+ORD1662,CUST62,11-12-2023,  Home & Kitchen  ,Laptop Stand,five,22.41,France,credit card,customer226@mail.com,7,0.07,Yes
+ORD1704,CUST19,04/06/2024,Sports,Gel Pen,8,102.33,india,PayPal,customer210@mail.com,1,12%,yes
+ORD1135,CUST67,08-17-2024,electronics,Bluetooth Speaker,7,81.69,India,credit card,customer224@mail.com,4,4%,No
+ORD1451,CUST249,10-03-2024,beauty ,Bluetooth Speaker,6,99.07,United Kingdom,UPI,customer119@mail.com,3,41%,No
+ORD1164,CUST99,15-Jun-2024,ELECTRONICS,  Yoga Mat  ,1,26.67,  Australia  ,  Credit Card  ,,1,0.02,Yes
+ORD1028,CUST12,2024/04/29,beauty ,Face Cream,4,157.71,U.S.A,PayPal,customer235@mail.com,,0.0,False
+ORD1587,CUST145,2024/04/21,Beauty, Running Shoes,4,85.94,,Credit Card,customer248@mail.com,,0.29,Yes
+ORD1193,CUST44,2023-02-22,ELECTRONICS,Notebook,,,N/A,  CREDIT CARD  ,customer174@mail.com,2,0.28,1
+ORD1429,cust193,2023/11/05,Beauty,Webcam HD,7,188.54,N/A,Debit Card,customer158@mail.com,3,0.18,No
+ORD1666,CUST229,11-Jun-2024,ELECTRONICS,Headphones,10,69.18,,UPI,CUSTOMER242@MAIL.COM,5,47%,N
+ORD1833,CUST202,invalid_date,  Home & Kitchen  ,Laptop Stand,8,140.23,India,NA,customer15@mail.com,,50%,No
+ORD1169,CUST57,06-16-2024,Clothing,USB-C Cable,9999,58.43,germany,  CREDIT CARD  ,customer99@mail.com,6,43%,Yes
+ORD1075,CUST58,2024/01/25,clothing,Notebook,9,55.42,N/A,,customer218@mail.com,5,0.01,Yes
+ORD1140,CUST109,2023/07/31,electronics,wireless mouse,5,142.71,N/A,CREDIT CARD,customer82@mail.com,3,0.44,Yes
+ORD1173,CUST86,05/02/2024,electronics,Power Bank,10,193.04,U.S.A,,,,,No
+ORD1006,CUST275,2023-01-27,ELECTRONICS,Smart Watch ,10,76010.0,,COD,customer176@mail.com,4,0.08,True
+ORD1670,CUST262,2023-11-20,clothing,Notebook,9,22.98,U.S.A,paypal,customer80@mail.com,5,0.16,No
+ORD1519,CUST180,06.03.2023,Sports,  T-Shirt  ,4,107.36,Australia,Cash on Delivery,customer246@mail.com,1,0.49,No
+ORD1679,cust286,12/11/2024,clothing,Headphones,6,35.88,UK,Credit Card,customer263@mail.com,8,0.29,Yes
+ORD1073,CUST281,2023/12/22,  Home and Kitchen  ,  Power Bank  ,4,Rs.65.35,Australia,COD,customer5@mail.com,4,0.27,Yes
+ORD1714,CUST180,03-31-2023,  clothing  ,Power Bank,9,187.03,germany,Debit Card,customer62@mail.com,5,0.04,Yes
+ORD1881,CUST89,19-Feb-2024,ELECTRONICS, Running Shoes,,156.04,United States,upi,customer253@mail.com,1,0.48,No
+ORD1227,CUST118,2024/04/09,Home & Kitchen,T-Shirt,3,Rs.70.63,INDIA,Credit Card,customer150@mail.com,3,0.45,No
+ORD1145,CUST102,11/05/2023,  Clothing  ,USB-C Cable,-1,100.24,  UK  ,,customer136@mail.com,4,,No
+ORD1825,CUST122,15-Oct-2024,ELECTRONICS,Shampoo,1,176.11,India,COD,customer233@mail.com,4,30%,Yes
+ORD1234,CUST222,2023/12/23,electronics,Notebook,2,77.5,UK,Debit Card,customer287@mail.com,3,0.31,Yes
+ORD1220,CUST188,01-14-2024,ELECTRONICS,Laptop Stand,,160390.0,germany,PayPal,customer238@mail.com,1,0.12,Yes
+ORD1214,CUST193,2024-06-02,  electronics  ,  wireless mouse  ,10,96.46,germany,upi,customer62@mail.com,5,10%,no
+ORD1689,cust3,2024/03/28,Beauty,Webcam HD,2,134.55,United States,,customer76@mail.com,1,30%,Yes
+ORD1132,CUST123,08-Nov-2024,Books,wireless mouse,6,167.26,USA,Cash on Delivery,customer183@mail.com,5,0.23,1
+ORD1374,CUST103,03/08/2024,Books ,USB-C Cable,-1,24.42,INDIA,paypal,CUSTOMER168@MAIL.COM,2,0%,No
+ORD1457,CUST280,06-24-2024,Home and Kitchen,Phone Case,3,166.36,United Kingdom,  Credit Card  ,customer293@mail.com,1,0.45,No
+ORD1685,CUST169,2023/03/21,Beauty,Webcam HD,0,110.81,unknown,NA,customer210@mail.com,3,0.06,Yes
+ORD1422,CUST239,12.01.2024,beauty ,Face Cream,6,,Australia,upi,customer115@mail.com,5,,No
+ORD1185,CUST206,08-27-2023,Books,  Shampoo  ,3,199.55,Germany,credit card,,4,0.32,No
+ORD1041,CUST23,2023/02/24,Books ,,3,129.86,Australia,paypal,customer112@mail.com,10,22%,no
+ORD1638,CUST114,29-Jul-2024,Home & Kitchen,Power Bank,9,46.66,INDIA,NA,customer271@mail.com,5,,No
+ORD1108,CUST111,06-11-2023,ELECTRONICS,Headphones,8,129.17,india,COD,customer17@mail.com,5,0.14,No
+ORD1616,CUST144,26/11/2023,Home & Kitchen,Face Cream,10,113.45, France,Credit Card,customer173@mail.com,5,0.31,No
+ORD1056,CUST225,25/08/2023,Books ,Headphones,5,63.79,U.S.A,,customer268@mail.com,2,,No
+ORD1449,CUST12,2024/11/26,clothing,Laptop Stand,6,181.0,unknown,credit card,customer211@mail.com,3,0.39,No
+ORD1736,CUST108,21/03/2024,  Sports  ,Notebook,4,125.97,United Kingdom,upi,customer295@mail.com,1,,Yes
+ORD1589,CUST159,31.01.2024,Home & Kitchen,Wireless Mouse,-3,140.04,unknown,Cash on Delivery,customer12@@mail.com,,0.11,Yes
+ORD1871,CUST37,02-Aug-2024,Beauty,Face Cream,6,90.51,India,Cash on Delivery,customer144@mail.com,1,,Yes
+ORD1435,CUST166,06-19-2024,ELECTRONICS,Shampoo,5,51.27,India,Cash on Delivery,customer133@mail.com,4,1%,N
+ORD1024,CUST101,10-24-2023,Sports,  Bluetooth Speaker  ,7,152.35,  Germany  ,  credit card  ,,2,17%,No
+ORD1745,CUST228,05/04/2023,Sports,Headphones,10,179.08,USA,paypal,customer144@mail.com,2,0.08,Yes
+ORD1494,CUST69,2024-06-19,Books ,  wireless mouse  ,5,97.34,INDIA,Cash on Delivery,customer74@mail.com,2,26%,No
+ORD1828,CUST28,21/12/2023,Home and Kitchen,Face Cream,10,6.9,  France  ,COD,customer117@mail.com,4,0.46,Yes
+ORD1983,CUST44,27.03.2023,Electronics,Wireless Mouse,8,113.69,,credit card,customer75@mail.com,4,0.03,True
+ORD1877,,2024/07/09,  Home & Kitchen  ,Yoga Mat,8,-100.35,Australia,paypal,,1,0.22,No
+ORD1967,CUST196,25.05.2024,beauty ,Phone Case,1,91.5,United States,CREDIT CARD,CUSTOMER138@MAIL.COM,3,0.5,Yes
+ORD1338,CUST70,14-Jul-2024,Books,Gel Pen,6,18.46,  UK  ,UPI,customer238@mail.com,1,0.09,No
+ORD1051,CUST158,2024-08-22,Electronics,Wireless Mouse,,,U.S.A,,,6,0.37,False
+ORD1383,CUST33,24-May-2023,  clothing  , Running Shoes,3,107.81,india,NA,customer204@mail.com,4,8%,Yes
+ORD1539,CUST46,27.12.2023,ELECTRONICS,Shampoo,8,156.34,U.S.A,PayPal,customer162@mail.com,5,20%,Yes
+ORD1959,CUST11,2023-01-01,Electronics,USB-C Cable,1,free,india,  credit card  ,customer166@mail.com,4,14%,1
+ORD1502,CUST155,14-May-2024,Books , Running Shoes,6,143.23,United Kingdom,Cash on Delivery,customer278@mail.com,6,0.41,N
+ORD1965,CUST88,20/05/2023,  Sports  ,Webcam HD,7,58.98, France,NA,customer224@mail.com,3,,False
+ORD1264,CUST94,02/12/2023,Books,   Running Shoes  ,10,92.36,United States,CREDIT CARD,customer11@mail.com,1,19%,No
+ORD1956,CUST6,04.09.2023,Books ,Wireless Mouse,9,122.46,INDIA,COD,customer176@mail.com,1,0.08,Yes
+ORD1912,CUST100,2023-07-30,clothing,Yoga Mat,8,148.91,unknown,credit card,,3,0.36,yes
+ORD1713,CUST235,18/08/2023,Home and Kitchen,Yoga Mat,9,40.55,  India  ,Debit Card,customer62@mail.com,3,,No
+ORD1444,CUST110,08-10-2024,Beauty,Smart Watch ,5,120.66,United States,  NA  ,,3,7%,No
+ORD1395,CUST215,07-Jun-2023,ELECTRONICS,Bluetooth Speaker,9,104.11,U.S.A,NA,customer129@mail.com,5,0.22,Yes
+ORD1541,CUST151,2024-02-12,  beauty   ,Smart Watch ,1,128.24,USA,credit card,customer292@mail.com,2,0.47,No
+ORD1495,CUST19,2023-05-02,Beauty,Shampoo,1,198.23, France,NA,customer276@mail.com,2,0.08,Yes
+ORD1018,CUST281,,Home and Kitchen,Bluetooth Speaker,9,132.92,India,credit card,customer22@mail.com,3,,False
+ORD1810,CUST91,2024-01-17,Beauty,Notebook,-3,111.28,Germany,,customer148@mail.com,3,48%,Yes
+ORD1522,CUST228,09-22-2023,Clothing,wireless mouse,-1,109.43,  INDIA  ,Debit Card,customer261@@mail.com,3,0.14,No
+ORD1594,CUST1,2024/07/06,Books ,Wireless Mouse,10,164.11,Australia,PayPal,customer186@mail.com,3,12%,1
+ORD1479,CUST99,2024/02/28,Home and Kitchen,Face Cream,0,48.26,Germany,Cash on Delivery,,2,0.36,Yes
+ORD1367,CUST124,25/03/2023,electronics,Phone Case,2,,Australia,paypal,customer279@mail.com,3,0.02,Yes
+ORD1083,CUST37,25.11.2023,Electronics,Phone Case,8,$92.06,  U.S.A  ,Credit Card,customer86@mail.com,good,1%,no
+ORD1061,CUST270,06-Feb-2024,electronics,Power Bank,9,145.54,U.S.A,upi,customer212@mail.com,3,0.32,No
+ORD1483,CUST272,08-22-2023,beauty ,Smart Watch ,1,146.17,France,UPI,customer221@mail.com,1,0.02,Yes
+ORD1272,CUST186,2024-10-16,Sports,  T-Shirt  ,-4,139.67, France,UPI,customer107@mail.com,3,0.24,No
+ORD1285,CUST123,22.02.2023,Home & Kitchen,wireless mouse,4,168.11,Germany,,customer60@mail.com,3,37%,No
+ORD1360,CUST159,29.10.2024,Books ,,2,61.22, France,,customer294@mail.com,4,,False
+ORD1354,CUST13,08-09-2024,beauty ,Denim Jacket,4,185.15,Germany,CREDIT CARD,customer77@mail.com,5,5%,No
+ORD1611,CUST293,2023/01/06,Clothing,Face Cream,0,156.24, France,PayPal,customer254@@mail.com,1,0.46,No
+ORD1278,CUST77,2023/08/11,Beauty,T-Shirt,4,191.72,,COD,customer61@mail.com,4,0.37,Yes
+ORD1012,CUST259,11-Oct-2023,beauty ,Headphones,5,184.94,UK,COD,customer38@mail.com,4,42%,Yes
+ORD1182,CUST198,05-04-2023,  ELECTRONICS  ,Notebook,6,Rs.177.87,United Kingdom,Cash on Delivery,customer210@mail.com,5,0.43,No
+ORD1368,CUST102,28/04/2023,  Sports  ,Face Cream,3,154.1,India,Debit Card,customer232@mail.com,10,,No
+ORD1527,CUST267,04.05.2023,Books ,,7,175790.0,india,COD,customer112@mail.com,2,23%,No
+ORD1643,CUST109,2024-08-22,Clothing,Face Cream,2,150.56,USA,UPI,customer10@mail.com,2,0.25,No
+ORD1223,CUST108,,Clothing, Running Shoes,,84.55,germany,upi,customer114@mail.com,9,0.22,No
+ORD1599,CUST152,02-May-2024,clothing,Bluetooth Speaker,7,98.56,USA,Debit Card,customer15@mail.com,,0.08,no
+ORD1730,CUST105,21.06.2023,Clothing,Yoga Mat,10,182.24,  United States  ,UPI,customer179@mail.com,1,0.28,Yes
+ORD1707,CUST89,23.09.2024,Home and Kitchen,Headphones,9,7.27,United Kingdom,Credit Card,customer228@mail.com,6,,No
+ORD1570,CUST118,2023/07/09,  Beauty  ,  Laptop Stand  ,4,$174.69,U.S.A,  COD  ,customer138@mail.com,2,0.37,Yes
+ORD1486,CUST61,11-12-2024,beauty ,Webcam HD,10,-21.74,Australia,paypal,customer138@mail.com,3,37%,0
+ORD1465,CUST151,2024/11/25,Sports,  Face Cream  ,3,$130.15,Australia,,customer31@mail.com,3,,Yes
+ORD1882,CUST287,01/11/2024,Home and Kitchen,Laptop Stand,5,51.17,INDIA,upi,customer273@mail.com,2,,
+ORD1636,CUST157,01.01.2023,Books ,Denim Jacket,5,67.72,INDIA,    ,customer245@mail.com,1,0.24,No
+ORD1176,cust152,05-14-2023,ELECTRONICS,Denim Jacket,5,,USA,Debit Card,customer16@mail.com,2,0.38,Yes
+ORD1696,CUST234,15/07/2024,electronics,T-Shirt,6,182.45,United Kingdom,COD,customer50@mail.com,9,,No
+ORD1655,CUST160,2024/06/07,Sports,  Gel Pen  ,6,71.98,United Kingdom,paypal,customer33@mail.com,2,0.07,True
+ORD1613,CUST208,2023-07-10,ELECTRONICS,Laptop Stand,1,79.78,U.S.A,paypal,customer94@mail.com,1,7%,
+ORD1456,CUST226,08/01/2024,Books,Phone Case,4,88.27,INDIA,CREDIT CARD,customer57@mail.com,2,0.37,Yes
+ORD1544,CUST229,07-Oct-2023,Electronics,USB-C Cable,9999,50.33,  INDIA  ,upi,customer251@mail.com,1,0.26,No
+ORD1393,CUST33,08-08-2023,Beauty,  Yoga Mat  ,4,171.67,UK,paypal,customer251@mail.com,4,0.31,Yes
+ORD1163,CUST157,30-Dec-2023,Beauty,USB-C Cable,3,75.96,,credit card,customer66@mail.com,5,0.25,Y
+ORD1248,CUST117,06.05.2024,beauty ,Gel Pen,2,119.33,Germany,Debit Card,customer186@mail.com,5,9%,Yes
+ORD1800,,2023-06-13,  Beauty  ,Wireless Mouse,2,60.28,,paypal,customer291@mail.com,,0.1,Yes
+ORD1922,CUST153,08-24-2024,electronics,Yoga Mat,9,73.66,INDIA,upi,customer298@mail.com,5,0.47,Yes
+ORD1700,cust265,08.09.2024,Beauty,USB-C Cable,9,194.74,unknown,paypal,customer137@mail.com,4,0.33,No
+ORD1375,CUST291,07-10-2023,  Beauty  ,Yoga Mat,10,Rs.29.32,Germany,NA,customer248@mail.com,4,0.0,Yes
+ORD1412,CUST237,05-29-2023,Books ,Wireless Mouse,10,94.96,USA,paypal,customer238@mail.com,2,0.45,Yes
+ORD1074,CUST297,06-18-2024,Clothing,Power Bank,3,162.14, France,Cash on Delivery,customer253@mail.com,1,,Yes
+ORD1918,CUST295,11-12-2023,Sports,Yoga Mat,3,142.03,  india  ,,customer275@mail.com,5,0.47,Yes
+ORD1113,CUST45,2024-07-30,ELECTRONICS,Denim Jacket,6,161.8,India,UPI,customer183@mail.com,1,0.18,No
+ORD1500,CUST242,27/03/2024,Clothing,wireless mouse,8,free,N/A,,CUSTOMER12@MAIL.COM,5,0.44,Yes
+ORD1585,CUST116,02-22-2023,  electronics  ,Laptop Stand,10,-28.62,germany,PayPal,customer73@mail.com,5,50%,Yes
+ORD1114,cust58,09-06-2023,Electronics,,1,Rs.100.17,Germany,CREDIT CARD,customer195@mail.com,5,0.27,No
+ORD1417,CUST179,01-Feb-2024,ELECTRONICS,Laptop Stand,five,free,UK,  Cash on Delivery  ,customer31@mail.com,1,0.3,No
+ORD1089,CUST35,2024-11-04,Home & Kitchen,USB-C Cable,3,86.27,U.S.A,    ,customer266@mail.com,,0.46,No
+ORD1960,CUST38,10/08/2023,  Home and Kitchen  ,,8,170.53,France,credit card,customer201@mail.com,1,35%,
+ORD1903,CUST155,06-May-2023,Books,wireless mouse,1,147.93,INDIA,NA,customer5@mail.com,3,,No
+ORD1633,,24.01.2023,Sports,Notebook,7,134.46,India,Cash on Delivery,CUSTOMER105@MAIL.COM,1,0.45,No
+ORD1678,CUST121,2024-06-21,clothing,Phone Case,2,112.32,   France  ,,customer207@mail.com,5,0.37,No
+ORD1011,CUST269,invalid_date,ELECTRONICS,Laptop Stand,2,113.51,,NA,customer98@mail.com,1,0.28,Yes
+ORD1396,CUST183,2023/02/19,Sports,  Denim Jacket  ,4,151.15,india,paypal,customer281@mail.com,4,26%,No
+ORD1557,CUST195,05.10.2023,  Sports  ,Face Cream,1,119.14,India,NA,customer26@mail.com,2,3%,No
+ORD1042,cust99,2024-11-19,Home and Kitchen,,5,131.56,United Kingdom,Cash on Delivery,customer92@mail.com,10,0.23,No
+ORD1167,CUST113,23.07.2024,Electronics,Laptop Stand,8,-152.64,USA,  CREDIT CARD  ,customer166@mail.com,good,0.44,Yes
+ORD1416,CUST33,13/01/2023,Electronics,Laptop Stand,-3,46.75,Germany,COD,customer146@mail.com,4,0.12,Yes
+ORD1789,CUST150,2023-08-30,beauty ,Smart Watch ,,128.59,INDIA,COD,customer142@mail.com,1,0.31,Yes
+ORD1426,CUST43,22-May-2024,electronics,Face Cream,1,39.35,unknown,CREDIT CARD,customer220@mail.com,1,0.09,Yes
+ORD1919,CUST86,2024-06-25,  Books   ,Shampoo,9,Rs.33.42,  USA  ,,customer143@mail.com,5,0.21,No
+ORD1242,CUST224,26/02/2024,Clothing,Yoga Mat,3,24.45,UK,CREDIT CARD,customer258@mail.com,1,12%,Yes
+ORD1715,CUST215,10-13-2024,Home and Kitchen,wireless mouse,1,111.34, France,CREDIT CARD,customer144@mail.com,3,50%,No
+ORD1732,cust143,2023/10/23,clothing,Smart Watch ,,174.61, France,UPI,customer109@mail.com,3,0.29,Yes
+ORD1257,CUST134,20-Jun-2024,Sports,T-Shirt,10,-39.18,U.S.A,Debit Card,customer171@mail.com,4,0.02,Yes
+ORD1335,CUST137,invalid_date,beauty ,Bluetooth Speaker,10,138.7,unknown,credit card,,,3%,No
+ORD1015,CUST94,18.01.2023,Sports,Headphones,five,173.24,France,PayPal,customer23@mail.com,2,0.48,yes
+ORD1657,CUST234,22-Mar-2024,beauty ,Webcam HD,9,156.15, France,,customer196@mail.com,3,0.46,Yes
+ORD1324,cust207,2023-04-08,ELECTRONICS,Headphones,2,$49.38,INDIA,,,5,,Yes
+ORD1924,CUST63,16-Jan-2023,Sports,Shampoo,6,125.99,UK,,customer268@mail.com,2,37%,No
+ORD1222,CUST80,19.04.2023,Sports,wireless mouse,3,164.65,germany,PayPal,,10,0.36,Yes
+ORD1179,CUST144,03.05.2023,ELECTRONICS,Notebook,-5,181.02,india,PayPal,customer72@mail.com,2,,No
+ORD1099,CUST226,10-Sep-2023,electronics,Notebook,,171.11,Australia,Credit Card,customer200@mail.com,2,0.12,No
+ORD1521,CUST280,28.10.2024,beauty ,Yoga Mat,4,90.37,germany,Debit Card,customer52@mail.com,,33%,No
+ORD1022,CUST251,20-Apr-2024,beauty ,Power Bank,2,$187.57,  unknown  ,credit card,customer138@mail.com,2,5%,True
+ORD1356,CUST255,24-Apr-2023,  clothing  ,Headphones,0,110.3,Australia,  NA  ,customer86@mail.com,4,0.26,No
+ORD1697,CUST179,2024/11/28,clothing,Power Bank,5,79.4,United Kingdom,PayPal,customer81@mail.com,2,0.44,Yes
+ORD1898,CUST187,invalid_date,  Home & Kitchen  ,Wireless Mouse,7,61.15,USA,Cash on Delivery,customer144@mail.com,3,22%,No
+ORD1340,CUST258,21.03.2024,beauty ,Smart Watch ,five,105.15, France,Debit Card,customer187@@mail.com,3,0.11,Yes
+ORD1431,CUST228,2024-04-04,Books,T-Shirt,6,87.18,Australia,,customer99@mail.com,3,0.35,No
+ORD1576,CUST174,06-Jul-2024,beauty ,Denim Jacket,3,182.45,United States,UPI,customer26@mail.com,3,,yes
+ORD1869,CUST33,18.04.2024,Sports,USB-C Cable,3,83.14, France,paypal,customer192@mail.com,1,48%,Yes
+ORD1203,CUST36,01/03/2024,Clothing,Gel Pen,4,199.32,N/A,upi,customer112@mail.com,2,20%,Y
+ORD1743,CUST192,22/04/2024,Clothing,Face Cream,1,177.55,,Credit Card,customer81@mail.com,4,31%,True
+ORD1093,CUST163,2023/11/15,clothing,T-Shirt,9,178.19,United States,PayPal,customer97@mail.com,1,0.3,Yes
+ORD1583,CUST6,2024/06/19,Home and Kitchen,,-1,20.54, France,Debit Card,customer3@mail.com,3,0.07,No
+ORD1068,CUST90,07-Feb-2023,Books,  Wireless Mouse  ,3,158.38,Germany,  UPI  ,customer11@@mail.com,5,0.03,Yes
+ORD1650,CUST174,2023/05/13,Home and Kitchen,Headphones,4,110.93,USA,  PayPal  ,customer197@mail.com,2,0.28,No
+ORD1284,CUST4,2024-08-09,Home and Kitchen,Bluetooth Speaker,9,106.27,  U.S.A  ,Cash on Delivery,customer226@mail.com,6,,Yes
+ORD1841,CUST114,2023-08-05,Electronics,Gel Pen,five,$77.85,  India  ,Credit Card,,5,0%,No
+ORD1434,CUST179,12.01.2024,Sports,Headphones,4,154.98,  India  ,PayPal,customer110@mail.com,2,0.19,Yes
+ORD1153,cust235,2023-05-21,ELECTRONICS,Power Bank,10,104.06,United States,,customer124@mail.com,5,35%,Yes
+ORD1075,CUST16,2023-01-22,Sports,Shampoo,4,56.01,N/A,  credit card  ,customer68@mail.com,1,,No
+ORD1923,CUST166,,clothing,  wireless mouse  ,5,28.37,India,  Credit Card  ,customer15@mail.com,5,0.38,No
+ORD1240,CUST167,10-Aug-2023,Electronics,  Shampoo  ,9,48.23,INDIA,CREDIT CARD,customer98@mail.com,3,,Yes
+ORD1188,CUST179,05-05-2024,  clothing  ,Webcam HD,2,126.69,Germany,CREDIT CARD,customer252@mail.com,5,0.28,yes
+ORD1271,CUST73,2023-08-18,Electronics, Running Shoes,5,77.41,Germany,CREDIT CARD,customer178@mail.com,2,0.33,Yes
+ORD1236,CUST22,2023/07/22,Books ,Webcam HD,9,31.55,United States,,customer69@mail.com,5,17%,Yes
+ORD1487,CUST113,2024-05-23,  Books  ,Bluetooth Speaker,five,12.48, France,credit card,customer77@mail.com,2,0.02,True
+ORD1559,CUST225,2023/07/19,Electronics,,7,145.18,Australia,upi,customer35@mail.com,2,0.3,Yes
+ORD1117,CUST18,08/04/2023,Books,USB-C Cable,5,159.64,U.S.A,    ,,3,0.25,No
+ORD1853,CUST249,31-Oct-2023,Beauty,wireless mouse,5,143.72, France,Credit Card,customer19@mail.com,3,16%,No
+ORD1512,CUST83,2023-11-07,Home & Kitchen,USB-C Cable,3,47.9,INDIA,Credit Card,customer206@mail.com,2,0.11,No
+ORD1578,CUST89,2024/07/23,  Electronics  , Running Shoes,5,145.8,USA,paypal,customer22@mail.com,3,0.4,N
+ORD1829,CUST162,20/06/2024,Beauty,,4,115.82,  U.S.A  ,UPI,customer291@mail.com,8,12%,1
+ORD1126,CUST232,03.08.2023,Beauty,Webcam HD,3,198.99,India,NA,CUSTOMER155@MAIL.COM,3,10%,No
+ORD1116,CUST23,04-23-2024,Home & Kitchen,T-Shirt,-5,99.27,United Kingdom,COD,customer74@mail.com,3,16%,Yes
+ORD1473,CUST95,2024-10-19,ELECTRONICS,Notebook,3,62.05,,PayPal,customer239@mail.com,1,,No
+ORD1930,CUST239,23/02/2024,Books,Gel Pen,1,166.17,Australia,    ,customer95@mail.com,4,30%,No
+ORD1057,CUST53,06-01-2023,Clothing,USB-C Cable,2,59.76,unknown,Credit Card,,4,0.25,No
+ORD1705,CUST289,2023/03/01,ELECTRONICS,Shampoo,6,111.17,USA,,,3,,No
+ORD1950,CUST93,01-01-2024,  Books  ,Denim Jacket,8,$134.76,France,  Debit Card  ,customer48@mail.com,1,0.04,Yes
+ORD1369,CUST265,03/02/2023,Home & Kitchen, Running Shoes,-3,160.59,unknown,Debit Card,customer51@mail.com,4,0.46,No
+ORD1268,CUST72,2024-05-27,Electronics,Smart Watch ,8,77.97,UK,Cash on Delivery,customer101@mail.com,1,14%,Yes
+ORD1046,CUST25,14.11.2023,Books,  T-Shirt  ,1,48.22,N/A,Cash on Delivery,customer117@mail.com,1,0%,No
+ORD1349,CUST181,2024/06/23,Sports,Webcam HD,8,162.4,,CREDIT CARD,customer124@mail.com,3,0.25,1
+ORD1195,,2023/08/26,clothing,,0,12.32,United Kingdom,upi,customer192@mail.com,4,,no
+ORD1102,,11-02-2024,Sports,,4,$137.81,France,Debit Card,customer214@mail.com,4,0.31,True
+ORD1870,CUST148,05.05.2024,  ELECTRONICS  ,Webcam HD,10,60.76,  UK  ,upi,customer110@@mail.com,5,0.45,No
+ORD1722,CUST280,20-Nov-2023,Beauty,Smart Watch ,10,53.26,India,Cash on Delivery,customer176@mail.com,4,11%,No
+ORD1472,CUST219,07/09/2023,Home & Kitchen,Power Bank,9,147.61,Germany,UPI,customer5@mail.com,good,13%,No
+ORD1263,CUST281,12-01-2023,clothing,Gel Pen,10,176.24,unknown,PayPal,customer62@mail.com,2,0.11,Y
+ORD1443,CUST282,2023-04-26,beauty ,Bluetooth Speaker,7,Rs.97.62,unknown,credit card,customer230@@mail.com,3,,Yes
+ORD1706,CUST91,,  Home and Kitchen  ,  Denim Jacket  ,6,88.87,india,Credit Card,customer40@mail.com,5,0.19,Yes
+ORD1304,,05.04.2023,Beauty,,3,144.34,India,paypal,customer135@mail.com,5,28%,No
+ORD1341,CUST252,26/10/2023,  Books   ,,7,87.26,,CREDIT CARD,customer175@mail.com,2,0.42,No
+ORD1626,CUST96,19-Nov-2024,ELECTRONICS,Wireless Mouse,4,86.26,india,Credit Card,customer100@mail.com,5,0.18,No
+ORD1240,CUST167,10-Aug-2023,Electronics,Shampoo,9,48.23,INDIA,CREDIT CARD,customer98@mail.com,3,,Yes
+ORD1149,CUST130,03/09/2023,Beauty,,1,81.44,France,Cash on Delivery,customer174@mail.com,4,0.0,Yes
+ORD1124,CUST83,06-Sep-2023,Books,Denim Jacket,7,94.72,India,credit card,customer206@@mail.com,3,36%,No
+ORD1819,CUST49,02-18-2024,  electronics  ,Notebook,1,57.41,India,,customer65@mail.com,,0.02,True
+ORD1861,CUST14,2024-01-16,Home and Kitchen,Notebook,7,122.76,INDIA,COD,customer14@@mail.com,5,0.42,0
+ORD1050,CUST112,06-23-2023,  Clothing  ,  Webcam HD  ,6,42.43,United Kingdom,Cash on Delivery,customer275@mail.com,5,0.43,Yes
+ORD1353,cust136,01-02-2024,Home & Kitchen,Face Cream,8,157.12,INDIA,CREDIT CARD,customer270@mail.com,2,,no
+ORD1968,CUST166,07/01/2023,Home & Kitchen,,9,$199.86,india,,customer234@mail.com,2,5%,Yes
+ORD1142,cust179,06/04/2023,Sports,,2,44.26,  United Kingdom  ,paypal,customer52@@mail.com,3,9%,Yes
+ORD1470,CUST119,2023-03-30,Home & Kitchen,Webcam HD,2,125.94,Germany,COD,,2,0.28,Yes
+ORD1399,CUST255,05-Nov-2023,Home & Kitchen,Denim Jacket,7,free,UK,,customer125@mail.com,good,0.09,Yes
+ORD1653,CUST59,07-04-2023,Clothing,Yoga Mat,8,79.13,,paypal,customer16@mail.com,2,0.16,N
+ORD1320,CUST225,11.02.2023,  Clothing  ,T-Shirt,3,109.2,INDIA,,customer193@mail.com,3,33%,Yes
+ORD1019,CUST80,02-Sep-2024,Beauty,Laptop Stand,10,$130.43,N/A,,customer259@mail.com,1,0.29,Yes
+ORD1844,CUST269,02-10-2024,Clothing,Webcam HD,1,74.49,USA,Cash on Delivery,customer244@mail.com,3,0.01,True
+ORD1406,CUST165,30/08/2024,electronics, Running Shoes,4,24.71,unknown,,customer31@mail.com,2,41%,Yes
+ORD1843,CUST195,04-29-2024,electronics,Denim Jacket,9,175930.0,germany,PayPal,,3,0.42,Yes
+ORD1407,CUST162,2023/11/10,beauty ,Face Cream,5,160.7,,paypal,customer279@mail.com,1,0.02,Yes
+ORD1537,CUST28,,Books ,wireless mouse,3,97.67,USA,,customer86@mail.com,2,0.23,0
+ORD1806,CUST87,05-26-2023,Electronics,Phone Case,,26.54,United States,paypal,customer298@mail.com,2,16%,Y
+ORD1038,CUST4,09-26-2024,ELECTRONICS,wireless mouse,5,12.46,UK,Credit Card,customer160@mail.com,,31%,Yes
+ORD1175,CUST116,26.12.2023,Clothing,Bluetooth Speaker,3,157.58,germany,,customer247@@mail.com,,0.19,Yes
+ORD1245,CUST274,2023/03/16,Beauty,  Yoga Mat  ,9,167.01,United States,  Cash on Delivery  ,customer26@mail.com,4,0.45,Yes
+ORD1864,CUST258,20-Sep-2023,Clothing, Running Shoes,8,28.59,United Kingdom,credit card,customer241@mail.com,3,0.43,Yes
+ORD1781,CUST15,20.04.2023,electronics,T-Shirt,8,$131.2,  U.S.A  ,Debit Card,CUSTOMER283@MAIL.COM,4,0.31,Yes
+ORD1787,CUST176,2023/02/09,Books,Power Bank,7,189.64,Germany,,customer143@mail.com,5,13%,Yes
+ORD1895,CUST263,12.03.2024,ELECTRONICS,  Bluetooth Speaker  ,7,70.23,United Kingdom,UPI,customer70@mail.com,4,46%,No
+ORD1154,CUST195,04.01.2024,Sports,Shampoo,9,72710.0,india,CREDIT CARD,customer28@mail.com,4,0.18,No
+ORD1287,CUST266,,clothing,Yoga Mat,3,129.44,india,  COD  ,customer157@mail.com,2,0.26,False
+ORD1630,CUST23,24.02.2023,Home & Kitchen,Face Cream,five,168.7,N/A,    ,customer165@mail.com,3,0.12,No
+ORD1569,CUST297,30/09/2023,Sports,T-Shirt,7,153.19,U.S.A,COD,customer17@mail.com,3,12%,Yes
+ORD1973,CUST120,09.08.2023,Clothing,  Webcam HD  ,6,,,Credit Card,customer3@mail.com,4,0.09,N
+ORD1017,CUST176,13/10/2024,Electronics,Laptop Stand,-3,Rs.88.99,Australia,PayPal,customer151@mail.com,7,28%,N
+ORD1127,CUST174,02-11-2024,Clothing,  Power Bank  ,1,12.39,United Kingdom,  paypal  ,CUSTOMER163@MAIL.COM,,31%,No
+ORD1322,CUST78,2023-01-07,Books ,Headphones,10,-60.43,germany,paypal,customer123@mail.com,5,0.29,No
+ORD1255,CUST7,2024-04-22,Electronics,USB-C Cable,4,83.62,USA,COD,customer127@mail.com,2,0.19,Yes
+ORD1687,CUST169,2023-03-08,clothing,Shampoo,9,32.24,INDIA,  PayPal  ,,1,0.13,No
+ORD1318,CUST241,16-May-2024,clothing,Yoga Mat,5,143.48,india,COD,customer84@mail.com,3,31%,Yes
+ORD1190,CUST133,06.12.2023,Electronics,Headphones,4,129.76,UK,CREDIT CARD,customer134@mail.com,1,49%,No
+ORD1115,cust8,2024/05/13,Electronics,  Bluetooth Speaker  ,10,81.55,United States,,customer265@mail.com,,,yes
+ORD1644,CUST133,2023-12-25,Books , Running Shoes,6,172.87,N/A,Credit Card,customer38@mail.com,5,,Yes
+ORD1606,cust176,09-Jul-2023,Books,Notebook,1,126.07,,PayPal,customer110@mail.com,5,0.23,No
+ORD1180,CUST189,2023-08-21,electronics,Face Cream,1,60.61,UK,  UPI  ,customer206@mail.com,7,30%,0
+ORD1301,CUST169,2023/01/24,Beauty,Gel Pen,6,196.85,USA,Credit Card,customer170@mail.com,1,34%,True
+ORD1792,CUST297,2023/01/18,Clothing,Notebook,2,58.21,INDIA,Credit Card,customer6@@mail.com,3,0.13,Yes
+ORD1914,CUST262,2023/08/09,electronics,Gel Pen,8,38.0, France,Debit Card,customer47@mail.com,1,0.36,0
+ORD1756,CUST110,11-20-2024,Home & Kitchen,USB-C Cable,five,163.0,  USA  ,  Cash on Delivery  ,customer41@mail.com,3,0.29,No
+ORD1716,CUST154,05/08/2023,Sports,Smart Watch ,-4,154.46,,Credit Card,customer147@mail.com,1,0.37,Yes
+ORD1692,CUST153,01-Jul-2024,Sports,Denim Jacket,1,153.05,N/A,UPI,customer148@mail.com,1,2%,No
+ORD1517,CUST108,13-Oct-2024,ELECTRONICS,,3,69.15,N/A,  NA  ,customer263@mail.com,1,0.43,No
+ORD1372,CUST1,29/04/2023,clothing,,9,51.74,UK,,customer297@@mail.com,3,0.4,Yes
+ORD1045,CUST143,06-22-2023,Books,Denim Jacket,8,113.26,USA,UPI,customer191@mail.com,3,0.18,No
+ORD1947,CUST206,10-07-2023,Home and Kitchen,  Power Bank  ,-3,165.79,United States,  paypal  ,customer24@mail.com,,0%,Yes
+ORD1157,CUST85,11.10.2024,Home and Kitchen,T-Shirt,8,162.12,United States,,customer148@mail.com,3,0.46,Yes
+ORD1777,CUST92,19.02.2023,Sports,T-Shirt,1,-60.84,unknown,NA,customer257@mail.com,2,,Yes
+ORD1171,CUST49,31.10.2024,Home & Kitchen,Smart Watch ,1,$85.42,United Kingdom,  PayPal  ,customer123@mail.com,1,0.05,No
+ORD1016,CUST160,07-30-2023,  clothing  ,Denim Jacket,5,$12.21,UK,PayPal,customer222@mail.com,5,0.2,Yes
+ORD1511,CUST125,23-Nov-2024,Home and Kitchen,Phone Case,1,88.92,Australia,UPI,customer70@mail.com,5,29%,Yes
+ORD1048,CUST266,2023-01-01,ELECTRONICS,Headphones,2,7.41,  UK  ,CREDIT CARD,customer213@mail.com,2,0.03,No
+ORD1133,CUST229,04.05.2024,ELECTRONICS,Wireless Mouse,6,100.31, France,PayPal,CUSTOMER103@MAIL.COM,8,11%,No
+ORD1876,CUST51,2023-02-17,Home and Kitchen,  Power Bank  ,9,187.71,Germany,,customer145@mail.com,4,0.05,No
+ORD1515,CUST60,01-18-2023,electronics,Yoga Mat,9,173.9,Germany,paypal,customer257@@mail.com,3,,no
+ORD1711,CUST94,2024/07/15,Books ,Yoga Mat,2,19.3,india,credit card,customer104@mail.com,4,47%,Yes
+ORD1717,CUST68,27-May-2023,Books ,Wireless Mouse,9,177.08,UK,Credit Card,customer166@mail.com,3,0.06,Yes
+ORD1480,CUST93,29/03/2024,Home and Kitchen,Notebook,4,36.43,U.S.A,UPI,customer54@mail.com,5,0.38,No
+ORD1283,CUST155,2023/05/27,Beauty,Webcam HD,0,113.34,France,credit card,customer172@mail.com,5,0.07,Yes
+ORD1750,CUST174,07/07/2024,Home & Kitchen,wireless mouse,1,Rs.67.39,india,PayPal,customer33@mail.com,3,0.02,Yes
+ORD1684,CUST279,2023-06-27,Clothing,T-Shirt,,Rs.57.09, France,paypal,customer78@mail.com,10,0.08,No
+ORD1225,CUST39,25/02/2023,Home & Kitchen,  Webcam HD  ,6,84.3,United States,COD,customer47@@mail.com,4,0.32,Y
+ORD1026,CUST134,2024/05/09,Books,  Webcam HD  ,9999,102.62,United Kingdom,COD,customer72@mail.com,2,21%,No
+ORD1938,,08-29-2024,Home and Kitchen,Smart Watch ,9,28.12,India,Cash on Delivery,customer54@mail.com,2,0.18,N
+ORD1437,CUST88,2024-04-09,Books ,Face Cream,10,13.36,N/A,CREDIT CARD,customer16@mail.com,2,,True
+ORD1992,CUST41,30-May-2024,Electronics,Face Cream,5,122.74,Australia,Credit Card,customer20@mail.com,2,0.41,Yes
+ORD1364,CUST261,04-Mar-2023,Beauty,Wireless Mouse,1,-137.61,  Germany  ,Cash on Delivery,customer151@mail.com,2,0.19,No
+ORD1229,CUST157,12-Dec-2023,  Books   ,Webcam HD,6,43.42,  india  ,,customer225@mail.com,2,,Yes
+ORD1037,CUST126,13.04.2023,Electronics,Shampoo,4,168.91,india,UPI,customer299@mail.com,1,,No
+ORD1669,CUST271,2024-01-06,Books ,Phone Case,3,104.15,Germany,NA,customer7@mail.com,4,26%,No
+ORD1049,CUST4,2024-04-21,Clothing,USB-C Cable,1,29.04,Germany,,,4,0.46,No
+ORD1374,CUST103,03/08/2024,Books ,USB-C Cable,-1,24.42,INDIA,paypal,CUSTOMER168@MAIL.COM,2,0%,No
+ORD1469,CUST41,invalid_date,Clothing,Bluetooth Speaker,1,12.07,UK,upi,customer88@mail.com,,0.37,Yes
+ORD1142,cust179,06/04/2023,Sports,,2,44.26,United Kingdom,paypal,customer52@@mail.com,3,9%,Yes
+ORD1887,CUST4,05-Feb-2023,Clothing,USB-C Cable,9,44.38,,CREDIT CARD,customer189@mail.com,5,0.31,Yes
+ORD1962,CUST32,2024/08/30,Beauty,,6,94.22,United States,CREDIT CARD,customer6@mail.com,2,0.49,Yes
+ORD1758,CUST261,09-20-2024,beauty ,Headphones,9,53.6,unknown,UPI,customer62@mail.com,1,0.07,Yes
+ORD1194,CUST95,21-Apr-2024,ELECTRONICS,Power Bank,8,25.87,France,NA,customer77@mail.com,5,,N
+ORD1544,CUST108,10-27-2023,Electronics,Gel Pen,1,free,India,Debit Card,customer201@mail.com,4,,No
+ORD1862,CUST244,,Books,Bluetooth Speaker,0,85.21,  UK  ,paypal,customer45@mail.com,4,0.2,No
+ORD1503,CUST194,16-Mar-2024,Clothing,   Running Shoes  ,9,112.08,Germany,,,5,16%,yes
+ORD1345,CUST243,2024-07-24,Electronics, Running Shoes,10,$175.87,United States,  NA  ,customer28@mail.com,2,0.07,Yes
+ORD1866,CUST39,03/08/2023,Home and Kitchen,T-Shirt,8,45.37,USA,,customer25@mail.com,5,20%,No
+ORD1579,CUST200,02-28-2023,Books,Headphones,2,23.99,germany,Debit Card,customer169@mail.com,1,0.14,No
+ORD1968,CUST166,07/01/2023,Home & Kitchen,,9,$199.86,india,,customer234@mail.com,2,5%,Yes
+ORD1680,CUST43,17-Jul-2024,Clothing,Headphones,6,121.63,USA,,customer36@@mail.com,5,0.02,Yes
+ORD1162,cust265,07-21-2023,clothing,Wireless Mouse,10,Rs.145.3,UK,Cash on Delivery,,5,22%,No
+ORD1852,CUST156,10-22-2023,Sports,Denim Jacket,10,38.18,,paypal,customer40@mail.com,3,43%,0
+ORD1152,CUST130,09-30-2024,Home & Kitchen,Phone Case,7,187.87,india,,customer30@mail.com,1,0.22,Yes
+ORD1712,CUST67,2023/07/06,ELECTRONICS,  Smart Watch   ,3,18.62, France,paypal,customer119@mail.com,2,0.48,Yes
+ORD1731,CUST6,05-13-2024,electronics,  Power Bank  ,3,21.08,UK,UPI,customer160@mail.com,3,0.25,No
+ORD1788,CUST98,2023/10/23,beauty ,wireless mouse,3,168.17,germany,  upi  ,customer96@mail.com,1,12%,No
+ORD1111,CUST203,2023/07/27,clothing,USB-C Cable,5,143.27,  unknown  ,Debit Card,customer291@mail.com,,0.04,Yes
+ORD1226,CUST59,2023-08-15,electronics,Phone Case,6,170.11,unknown,,customer160@mail.com,4,0.06,Yes
+ORD1929,CUST250,27-Aug-2024,Clothing,USB-C Cable,9,,U.S.A,Debit Card,customer294@mail.com,3,,Yes
+ORD1103,CUST218,30.05.2024,Books,Face Cream,4,88.53,U.S.A,  COD  ,customer287@@mail.com,5,49%,No
+ORD1421,CUST36,17-Oct-2023,electronics,wireless mouse,3,-138.68,N/A,,customer178@mail.com,4,,No
+ORD1419,CUST91,15-May-2024,Clothing,Wireless Mouse,8,65.39,India,UPI,customer79@mail.com,5,0.26,No
+ORD1783,CUST267,2024-08-09,Electronics, Running Shoes,2,97.21, France,credit card,customer138@mail.com,4,47%,Yes
+ORD1586,CUST170,23-May-2023,  Electronics  ,Headphones,8,143.79,USA,,customer117@mail.com,,,False
+ORD1813,CUST127,2023-06-01,Beauty,Power Bank,6,158.77,USA,,customer181@mail.com,3,0.21,Yes
+ORD1234,CUST156,29.06.2023,Beauty,Gel Pen,10,77.72,,Debit Card,customer150@mail.com,5,37%,No
+ORD1119,CUST293,2023-12-15,electronics,,10,73.93,N/A,,customer90@mail.com,3,0.38,Yes
+ORD1053,CUST217,2023-10-17,Home & Kitchen,,5,$125.56,N/A,Credit Card,customer25@mail.com,2,0.41,No
+ORD1151,CUST78,16-Sep-2024,  beauty   ,,3,$81.23,United States,credit card,customer129@mail.com,1,0.37,No
+ORD1403,CUST162,2023/01/13,Electronics,Wireless Mouse,7,190.64,United States,credit card,customer37@mail.com,1,48%,Yes
+ORD1986,CUST280,28-Dec-2023,Beauty,Face Cream,1,186.69,unknown,UPI,customer130@mail.com,1,0.3,Yes
+ORD1204,CUST199,invalid_date,clothing,Shampoo,7,9.24,india,,customer30@mail.com,1,0.36,Yes
+ORD1658,CUST174,27-Jul-2023,  Books   ,Shampoo,3,144.02,India,Cash on Delivery,,3,0.25,Yes
+ORD1880,CUST270,2023-10-15,ELECTRONICS,wireless mouse,9,64.82,  U.S.A  ,,customer53@mail.com,1,0.24,Yes
+ORD1988,CUST240,2024/02/19,  ELECTRONICS  ,Bluetooth Speaker,-2,164.02,germany,UPI,customer172@mail.com,1,0.28,Yes
+ORD1008,CUST15,18.07.2023,Books ,Denim Jacket,6,-20.7,,Debit Card,customer1@mail.com,3,0.04,No
+ORD1842,CUST256,2023-10-06,electronics,Phone Case,6,104.6,Australia,  NA  ,CUSTOMER278@MAIL.COM,4,44%,No
+ORD1036,CUST69,21/11/2024,Books,USB-C Cable,5,62.29, France,UPI,customer126@mail.com,3,0.29,No
+ORD1452,CUST65,2024-08-10,Books ,Power Bank,1,12.46,N/A,Credit Card,CUSTOMER28@MAIL.COM,5,0.35,No
+ORD1651,CUST93,18.12.2023,Beauty,Phone Case,6,40.34,unknown,credit card,customer115@mail.com,3,,no
+ORD1253,CUST98,11/03/2024,Books ,Phone Case,10,82.96,Australia,CREDIT CARD,customer239@mail.com,6,47%,True
+ORD1303,CUST235,02.07.2023,  beauty   ,T-Shirt,8,135.61,N/A,paypal,customer13@mail.com,5,28%,No
+ORD1888,CUST264,2024-04-22,electronics,USB-C Cable,10,183.32,France,,customer148@mail.com,3,0.05,Yes
+ORD1571,CUST174,06/01/2023,Sports,Gel Pen,5,free,Germany,Debit Card,customer300@mail.com,4,,No
+ORD1623,CUST226,05-28-2024,  beauty   ,,10,187080.0,INDIA,upi,customer228@mail.com,2,24%,No
+ORD1741,CUST248,16/03/2024,ELECTRONICS, Running Shoes,1,69.29,unknown,upi,customer189@mail.com,5,,
+ORD1752,CUST195,,beauty ,T-Shirt,4,130.24,Germany,    ,customer257@mail.com,4,0.27,0
+ORD1262,CUST73,14/04/2023,Home & Kitchen,  Laptop Stand  ,3,169.62,germany,upi,,4,7%,Yes
+ORD1610,CUST131,09/07/2024,ELECTRONICS,T-Shirt,5,136.75,Germany,PayPal,customer142@mail.com,3,0.04,N
+ORD1297,CUST77,12-Aug-2024,Electronics,Headphones,5,114.0,india,upi,customer67@mail.com,5,,No
+ORD1414,CUST249,12.07.2024,Home & Kitchen,Wireless Mouse,9,170720.0,U.S.A,Cash on Delivery,customer42@mail.com,2,,No
+ORD1150,CUST244,13/04/2024,Home & Kitchen, Running Shoes,10,11.35,Germany,CREDIT CARD,customer124@mail.com,1,,No
+ORD1948,CUST218,25/02/2024,Books,Yoga Mat,9,93.35,United Kingdom,paypal,customer178@mail.com,1,0.15,Yes
+ORD1640,CUST265,2024/07/24,Electronics,Wireless Mouse,,123.78,USA,upi,customer178@mail.com,4,0.28,
+ORD1927,CUST159,2024/10/17,beauty ,Headphones,10,51.69,United Kingdom,  paypal  ,,2,0.33,Yes
+ORD1550,CUST197,07-10-2023,Home & Kitchen,T-Shirt,8,125.36,  N/A  ,NA,customer115@mail.com,1,,False
+ORD1824,CUST66,2024/09/18,  Home and Kitchen  ,,3,Rs.129.09,N/A,paypal,customer51@mail.com,1,30%,Yes
+ORD1488,CUST25,28.09.2023,ELECTRONICS,Gel Pen,10,$147.62,germany,NA,customer264@mail.com,3,0.28,No
+ORD1710,CUST265,2023-12-14,Home and Kitchen,T-Shirt,9,137.92,,Cash on Delivery,CUSTOMER55@MAIL.COM,4,1%,
+ORD1147,CUST211,08/09/2023,ELECTRONICS,Denim Jacket,4,43.65,France,,customer246@mail.com,10,0.45,Yes
+ORD1146,CUST62,28/08/2023,Books ,wireless mouse,2,121.84,india,Debit Card,customer176@mail.com,,0.3,N
+ORD1753,CUST107,25/03/2024,ELECTRONICS,Yoga Mat,-3,183.7,unknown,upi,customer208@mail.com,5,0.44,Yes
+ORD1972,CUST247,24-Jul-2024,Home & Kitchen, Running Shoes,3,-142.43,,credit card,customer178@mail.com,3,0.28,Yes
+ORD1896,CUST159,09-13-2024,Home & Kitchen,Headphones,6,184.1,India,NA,customer153@mail.com,5,15%,False
+ORD1659,,01-Aug-2024,Books ,  Laptop Stand  ,7,130.6,Germany,Credit Card,customer125@mail.com,4,,No
+ORD1348,CUST7,26/06/2024,Clothing,Bluetooth Speaker,7,$158.99,   France  ,,customer211@mail.com,1,0.22,Yes
+ORD1463,CUST216,2023-08-20,beauty , Running Shoes,8,71.85,France,  Credit Card  ,customer68@mail.com,5,20%,No
+ORD1325,CUST65,16.08.2024,  Home & Kitchen  ,Bluetooth Speaker,2,70.8,india,upi,customer243@mail.com,2,0.06,yes
+ORD1186,CUST296,03-23-2024,Electronics,Webcam HD,2,192.68,  UK  ,,customer190@mail.com,3,0.08,0
+ORD1123,CUST272,2023/01/10,Home & Kitchen,Laptop Stand,4,83.16,India,paypal,customer285@mail.com,3,0.18,yes
+ORD1890,CUST74,03-04-2023,Sports,Denim Jacket,4,82.91,,paypal,customer19@mail.com,3,0.23,Yes
+ORD1608,CUST219,21.06.2024,  Books   ,wireless mouse,5,-40.11,N/A,PayPal,customer59@mail.com,6,0.27,No
+ORD1143,CUST180,08/01/2024,  electronics  ,Gel Pen,9,,Australia,COD,,10,41%,No
+ORD1751,,2024-06-05,beauty ,Laptop Stand,4,164.99,N/A,upi,,4,0.18,No
+ORD1452,CUST65,2024-08-10,Books ,Power Bank,1,12.46,  N/A  ,Credit Card,CUSTOMER28@MAIL.COM,5,0.35,No
+ORD1197,CUST72,2024/11/24,beauty ,Face Cream,8,157.67,UK,,customer168@mail.com,1,4%,No
+ORD1609,CUST158,2024/02/19,Beauty,Notebook,9,169.94,India,  Debit Card  ,customer207@mail.com,10,30%,Yes
+ORD1279,CUST77,10-19-2024,  electronics  ,  Gel Pen  ,0,187.02,unknown,COD,customer13@mail.com,2,22%,No
+ORD1030,CUST95,2023/04/22,Home and Kitchen,  Laptop Stand  ,5,67240.0,United States,COD,customer283@mail.com,2,0.4,N
+ORD1400,CUST287,14-Oct-2023,Books ,Face Cream,8,22.8,UK,NA,customer27@mail.com,5,,No
+ORD1122,CUST10,04-03-2023,beauty ,,3,133.19,France,Debit Card,customer17@mail.com,3,0.27,No
+ORD1183,CUST209,2023-04-17,ELECTRONICS,Laptop Stand,9,78.49,USA,COD,customer190@mail.com,5,4%,No
+ORD1202,CUST48,19.06.2023,Clothing,Notebook,4,122.57,UK,paypal,customer111@mail.com,4,0.03,No
+ORD1438,cust65,15-Jul-2024,  electronics  ,Webcam HD,4,60.58,U.S.A,Cash on Delivery,customer257@mail.com,10,0.05,No
+ORD1246,CUST189,2023-01-10,ELECTRONICS,Power Bank,3,175.58,UK,CREDIT CARD,customer12@mail.com,3,0.12,Yes
+ORD1415,CUST169,2023-11-13,electronics,,-4,125.28,unknown,  COD  ,,5,1%,No
+ORD1809,CUST92,01-31-2024,clothing,  Notebook  ,4,28.69,Germany,UPI,customer158@mail.com,4,0.43,No
+ORD1798,,2024-04-30,electronics,   Running Shoes  ,-2,12.34,India,UPI,customer234@mail.com,1,0.44,N
+ORD1051,,12-11-2023,  Home & Kitchen  ,Denim Jacket,,102.32,France,CREDIT CARD,customer200@mail.com,3,0.2,True
+ORD1801,CUST111,2023-03-28,Beauty,Shampoo,8,30.79,USA,upi,customer240@mail.com,5,0.32,Yes
+ORD1925,CUST2,2023/07/29,clothing,Denim Jacket,7,97.79,unknown,  Cash on Delivery  ,customer16@mail.com,1,0.18,Yes
+ORD1129,CUST279,25.02.2024,Home & Kitchen,  Gel Pen  ,3,80.48,  N/A  ,NA,CUSTOMER257@MAIL.COM,3,0.36,Yes
+ORD1637,CUST19,11/11/2023,Sports,Shampoo,6,40.93,France,Credit Card,customer139@mail.com,4,,Yes
+ORD1402,CUST259,17/01/2023,ELECTRONICS,Bluetooth Speaker,9,-122.27,UK,paypal,customer84@mail.com,4,1%,yes
+ORD1817,CUST105,2024-06-29,Electronics,Smart Watch ,8,$38.77,U.S.A,NA,,1,0.25,Yes
+ORD1803,cust200,17.10.2023,Sports,USB-C Cable,9,197.13,  USA  ,Debit Card,customer133@mail.com,5,0.14,No
+ORD1735,CUST182,17.12.2023,Beauty, Running Shoes,8,7.27, France,,customer50@mail.com,1,19%,Yes
+ORD1951,CUST294,05-14-2023,beauty ,wireless mouse,6,125.47,  U.S.A  ,upi,CUSTOMER182@MAIL.COM,,,Yes
+ORD1219,CUST115,2023/10/01,Home & Kitchen, Running Shoes,1,18.12,N/A,credit card,customer220@mail.com,1,0.5,No
+ORD1641,CUST79,02-11-2024,Home & Kitchen,Laptop Stand,5,74.83,germany,PayPal,customer166@mail.com,2,0.14,Yes
+ORD1953,CUST109,19.06.2024,Home & Kitchen,wireless mouse,3,$92.4,  Germany  ,paypal,customer145@mail.com,10,0.16,yes
+ORD1785,CUST128,10-Jan-2023,Sports,Webcam HD,2,161.97,N/A,,,1,0.18,0
+ORD1981,CUST134,03-11-2024,Home and Kitchen,Wireless Mouse,3,187.87,United Kingdom,Debit Card,customer260@mail.com,3,0.17,True
+ORD1958,,02.01.2023,beauty ,  T-Shirt  ,10,108.17,India,,customer158@mail.com,2,0.12,no
+ORD1624,CUST248,11/02/2023,clothing,Webcam HD,1,158.79,N/A,Cash on Delivery,customer191@mail.com,5,25%,Yes
+ORD1874,CUST292,03-06-2024,beauty ,Power Bank,9,108.75,Australia,Debit Card,customer10@mail.com,3,0.26,True
+ORD1793,CUST159,27/08/2023,  Books  ,Smart Watch ,4,99560.0,Australia,  CREDIT CARD  ,customer165@mail.com,5,0.06,Yes
+ORD1386,CUST118,2024-02-27,  electronics  ,Phone Case,10,176.29,INDIA,  Debit Card  ,customer117@mail.com,3,0.16,Yes
+ORD1104,CUST31,05/04/2023,Books,Shampoo,4,$142.6,unknown,CREDIT CARD,customer73@mail.com,2,,No
+ORD1509,CUST56,2024-06-02,  Home and Kitchen  ,Power Bank,3,24.56,,upi,customer171@mail.com,5,0.3,Yes
+ORD1267,CUST258,,Home and Kitchen,T-Shirt,2,113.63,INDIA,Cash on Delivery,customer148@mail.com,4,49%,No
+ORD1854,CUST112,07.09.2024,beauty ,  Bluetooth Speaker  ,3,125.08,United States,NA,CUSTOMER165@MAIL.COM,4,0.33,Yes
+ORD1441,CUST10,29/02/2024,Sports,Power Bank,3,115380.0,United Kingdom,Cash on Delivery,,5,0.19,no
+ORD1496,CUST39,03-01-2024,Beauty,Bluetooth Speaker,2,$33.92,india,paypal,CUSTOMER71@MAIL.COM,5,,Yes
+ORD1112,CUST264,2024/02/06,Sports,Shampoo,3,77.81,Australia,  Debit Card  ,,10,0.23,yes
+ORD1691,CUST267,2024-08-07,electronics,  Shampoo  ,5,64.71,,NA,customer142@mail.com,3,47%,True
+ORD1232,CUST109,2024-01-07,Home and Kitchen,Headphones,7,52.5,Australia,,,3,49%,No
+ORD1906,CUST45,2024-06-13,Books ,Wireless Mouse,3,32.14, France,paypal,customer50@mail.com,3,0.27,Yes
+ORD1607,CUST271,18.07.2024,electronics,Phone Case,5,159.65,India,,customer273@mail.com,3,0.09,Yes
+ORD1671,CUST17,05/06/2023,Clothing,Power Bank,9,95.55,UK,CREDIT CARD,customer28@mail.com,good,30%,No
+ORD1373,,2024-02-07,clothing,Wireless Mouse,5,142.79,Australia,Credit Card,customer55@mail.com,5,0.14,Yes
+ORD1663,CUST199,2024-06-29,Books ,Face Cream,1,63.75,Australia,credit card,customer154@mail.com,3,0.01,yes
+ORD1438,CUST233,28/02/2023,Home & Kitchen,,1,55.63,  USA  ,NA,customer34@mail.com,1,0.19,Yes
+ORD1233,CUST28,2024/09/05,Beauty,Gel Pen,3,-160.93,Germany,NA,customer47@mail.com,2,0.03,Yes
+ORD1984,CUST76,2024-03-06,Electronics,Webcam HD,6,48.2,Australia,CREDIT CARD,customer204@mail.com,7,0.22,No
+ORD1676,CUST92,02-11-2023,  Home and Kitchen  ,Phone Case,6,,India,PayPal,CUSTOMER111@MAIL.COM,2,0.15,1
+ORD1317,CUST42,26-Aug-2024,Books , Running Shoes,9,110.35,United States,NA,customer23@mail.com,2,36%,Yes
+ORD1235,CUST284,2023-03-26,Electronics,Headphones,7,136.59,india,Debit Card,customer219@mail.com,1,2%,0
+ORD1410,CUST200,2024/05/04,Electronics,USB-C Cable,8,144.08,,Credit Card,customer165@mail.com,3,16%,Yes
+ORD1936,CUST45,2023-10-12,Home & Kitchen,  Wireless Mouse  ,3,107630.0,N/A,,customer131@mail.com,2,0.3,No
+ORD1678,CUST243,2024-08-21,beauty ,Smart Watch ,five,$55.27,United Kingdom,PayPal,CUSTOMER66@MAIL.COM,5,0.45,No
+ORD1358,CUST223,07-11-2024,Electronics,Smart Watch ,2,165.67,UK,NA,customer39@mail.com,1,0.29,No
+ORD1258,CUST39,07.05.2024,  Home and Kitchen  ,Headphones,1,119.33,germany,,customer259@mail.com,6,0.5,N
+ORD1744,CUST96,2024-04-18,Electronics,Notebook,-1,109.72,Australia,NA,,2,0.33,Yes
+ORD1627,CUST252,20/03/2024,clothing, Running Shoes,1,151.26,UK,Cash on Delivery,,2,0.2,No
+ORD1632,CUST144,2023-09-26,clothing,Phone Case,1,122.27,india,COD,,5,0.11,Yes
+ORD1282,CUST44,10-25-2024,beauty ,Gel Pen,9,$46.96,France,Debit Card,customer18@mail.com,,0.43,Yes
+ORD1376,CUST22,26-Sep-2023,beauty ,Denim Jacket,9,191.38, France,Debit Card,customer212@mail.com,1,0.07,Yes
+ORD1384,CUST268,2024-04-30,Sports,Bluetooth Speaker,9,104.1,U.S.A,    ,customer61@mail.com,4,0.48,No
+ORD1224,CUST99,13-Apr-2023,Clothing,  USB-C Cable  ,8,114.73,INDIA,paypal,customer248@mail.com,1,0.29,Yes
+ORD1996,CUST212,20.07.2024,Electronics,Smart Watch ,7,117.21,Germany,upi,customer66@mail.com,9,49%,1
+ORD1849,CUST58,06.05.2023,Sports,Yoga Mat,7,$85.4,UK,Credit Card,CUSTOMER216@MAIL.COM,2,29%,No
+ORD1472,CUST219,07/09/2023,Home & Kitchen,Power Bank,9,147.61,Germany,UPI,customer5@mail.com,good,13%,No
+ORD1347,CUST247,08-11-2024,Home & Kitchen,Notebook,9,122.0,india,credit card,customer249@mail.com,5,0.2,Yes
+ORD1505,,2024/03/08,clothing, Running Shoes,8,150.22,United States,  NA  ,customer61@mail.com,1,0.11,Yes
+ORD1639,CUST228,2024/10/28,beauty ,,2,92.92,United Kingdom,paypal,customer246@mail.com,4,,No
+ORD1647,,25.08.2024,Sports,Notebook,-4,190.31, France,,CUSTOMER141@MAIL.COM,5,,No
+ORD1797,CUST40,14/08/2024,  Electronics  ,Bluetooth Speaker,6,,France,Cash on Delivery,customer27@mail.com,3,0.48,1
+ORD1969,cust34,09-02-2024,Books,,4,78.75,,COD,,1,0.13,Yes
+ORD1943,CUST165,2024-11-23,Beauty,Phone Case,8,73.8, France,Debit Card,customer72@@mail.com,4,34%,0
+ORD1619,CUST18,2024/06/03,beauty ,Yoga Mat,4,155.75,UK,COD,customer256@mail.com,10,0.5,Yes
+ORD1892,CUST299,2024/08/26,  Electronics  ,Smart Watch ,-5,78.4,,paypal,customer10@mail.com,1,5%,Yes
+ORD1837,CUST83,2023/11/28,electronics,  Power Bank  ,2,104.43,N/A,CREDIT CARD,customer227@mail.com,1,0.21,Yes
+ORD1645,CUST49,01.08.2024,Books,wireless mouse,7,86.05,  United Kingdom  ,UPI,CUSTOMER73@MAIL.COM,5,,Yes
+ORD1883,CUST119,24.10.2024,beauty ,Wireless Mouse,-3,189.83,,  COD  ,customer204@mail.com,1,0.37,Yes
+ORD1197,CUST50,17/11/2024,Beauty,Power Bank,2,159.96,France,Cash on Delivery,CUSTOMER102@MAIL.COM,1,0.39,No
+ORD1818,CUST82,01.09.2023,Home and Kitchen,  Yoga Mat  ,8,175.75,France,Debit Card,customer270@mail.com,3,0.42,No
+ORD1577,CUST186,07-09-2024,Books,Headphones,7,33.49,Australia,paypal,customer231@mail.com,4,7%,Yes
+ORD1795,CUST176,07.01.2024,ELECTRONICS,Gel Pen,1,174.95,U.S.A,paypal,,1,21%,No
+ORD1085,CUST200,2024/09/09,  Electronics  ,Denim Jacket,4,168.52,France,  Cash on Delivery  ,customer181@mail.com,4,0.01,yes
+ORD1242,CUST224,26/02/2024,Clothing,Yoga Mat,3,24.45,UK,CREDIT CARD,customer258@mail.com,1,12%,Yes
+ORD1698,CUST246,25/11/2024,Electronics, Running Shoes,5,155.92,Germany,upi,customer84@mail.com,,,No
+ORD1911,CUST160,04.06.2024,Sports,,4,182.0,N/A,,customer147@mail.com,1,,Yes
+ORD1159,CUST261,08-18-2023,electronics,Denim Jacket,-5,19.08,France,Debit Card,,2,0.25,Yes
+ORD1408,CUST55,27-Apr-2024,Electronics,Gel Pen,9,19.73,N/A,CREDIT CARD,customer236@mail.com,1,0.13,Yes
+ORD1035,CUST236,2023/03/22,Clothing,Yoga Mat,five,11.6,France,CREDIT CARD,customer136@mail.com,2,31%,No
+ORD1540,CUST202,16-Jan-2023,ELECTRONICS,Phone Case,4,68.07, France,Credit Card,customer275@mail.com,1,0.02,Yes
+ORD1170,CUST234,11.08.2024,electronics,Wireless Mouse,1,135670.0,N/A,NA,customer227@mail.com,2,19%,Yes
+ORD1654,CUST297,2023/07/07,beauty ,Wireless Mouse,6,191.98,U.S.A,COD,customer221@mail.com,3,18%,No
+ORD1928,cust159,2023-01-17,Sports,Power Bank,5,$142.56,United States,PayPal,customer269@mail.com,5,0.23,
+ORD1894,CUST30,27.08.2024,Books,Phone Case,10,151.79,Germany,CREDIT CARD,,5,49%,Yes
+ORD1884,CUST128,21.06.2023,  Books  ,Headphones,five,28.82,unknown,paypal,customer240@mail.com,2,0.24,Yes
+ORD1985,CUST146,07-16-2023,Books,Phone Case,3,63.07,  UK  ,CREDIT CARD,customer175@mail.com,,0.28,
+ORD1733,CUST279,18.08.2023,  Books   ,USB-C Cable,3,162.66,India,NA,customer270@mail.com,3,44%,0
+ORD1009,CUST88,2024/04/23,Books,Wireless Mouse,10,67.95,   France  ,UPI,customer299@mail.com,,39%,Yes
+ORD1563,CUST130,03-06-2024,Home and Kitchen,Webcam HD,2,free,N/A,  upi  ,customer61@mail.com,4,0.34,No
+ORD1240,CUST112,2024/04/17,  Sports  ,Denim Jacket,3,72.75,Australia,CREDIT CARD,customer242@mail.com,2,0.1,No
+ORD1742,CUST231,10/09/2024,  clothing  ,Wireless Mouse,9,$79.38,  N/A  ,credit card,,2,0.29,No
+ORD1574,CUST72,01-14-2024,beauty ,Denim Jacket,1,31.25,N/A,credit card,,2,33%,No
+ORD1690,CUST137,20.08.2024,Books,Bluetooth Speaker,2,176.11,U.S.A,PayPal,customer110@mail.com,good,0.43,0
+ORD1460,CUST58,27-Oct-2024,Beauty,Power Bank,4,153.9,  Australia  ,,customer92@mail.com,1,0.34,1
+ORD1553,CUST264,11/11/2024,ELECTRONICS,Shampoo,8,30.88,UK,NA,,4,35%,True
+ORD1857,CUST261,07/08/2023,Clothing,,9,118.74,United States,Debit Card,,4,,Y
+ORD1915,CUST77,2024-03-03,Home and Kitchen,Gel Pen,0,138.19,France,  Debit Card  ,customer230@mail.com,3,25%,False
+ORD1206,CUST81,07-06-2023,Electronics,,8,90.96,India,  upi  ,customer245@mail.com,good,39%,No
+ORD1392,CUST83,2024/05/01,Books ,Shampoo,4,78.24,Australia,Credit Card,customer196@mail.com,4,0.29,No
+ORD1794,CUST160,08-14-2024,electronics,,9,20.87,,  upi  ,,4,0.09,No
+ORD1397,CUST122,2023/01/10,ELECTRONICS,Shampoo,5,-43.05,USA,UPI,customer89@mail.com,1,,No
+ORD1766,CUST188,07-Jul-2023,Sports,Notebook,-3,165.72,unknown,Cash on Delivery,,4,33%,Yes
+ORD1885,CUST6,2024-02-25,Books ,T-Shirt,10,119.46,USA,UPI,CUSTOMER299@MAIL.COM,1,28%,No
+ORD1217,CUST15,19-Oct-2023,Books,Denim Jacket,4,110.93,United States,upi,customer126@mail.com,5,0%,No
+ORD1004,CUST255,07-16-2024,beauty ,Smart Watch ,6,138.13,United Kingdom,CREDIT CARD,,2,37%,Y
+ORD1768,CUST114,12/06/2023,Home and Kitchen,Smart Watch ,10,72.27,INDIA,paypal,customer130@mail.com,4,,No
+ORD1642,CUST95,09/06/2023,ELECTRONICS,Denim Jacket,10,55.79,U.S.A,Cash on Delivery,customer273@mail.com,2,37%,No
+ORD1935,CUST57,17/04/2024,ELECTRONICS,Shampoo,9999,131.63,United States,Debit Card,customer45@mail.com,1,0.03,Yes
+ORD1298,CUST235,05/08/2023,Books,Face Cream,five,108.66,Australia,,customer19@mail.com,5,,Yes
+ORD1738,CUST226,11.12.2023,clothing,Phone Case,5,142.76, France,Credit Card,customer163@mail.com,3,0.21,Yes
+ORD1546,CUST269,12.03.2023,Electronics,Wireless Mouse,10,147.52,India,COD,customer209@@mail.com,,0.09,Yes
+ORD1725,CUST189,13.02.2024,Books ,USB-C Cable,4,34.54,United Kingdom,,customer40@mail.com,3,28%,Yes
+ORD1966,CUST13,12/04/2023,Sports,USB-C Cable,8,106.88,  United Kingdom  ,  paypal  ,customer178@mail.com,4,0.25,No
+ORD1683,CUST287,2024-11-20,ELECTRONICS,Headphones,7,129.34,United Kingdom,UPI,customer26@mail.com,4,,Yes
+ORD1098,CUST13,2023-05-13,ELECTRONICS,Gel Pen,4,36.05,Australia,Cash on Delivery,customer244@mail.com,2,0.34,No
+ORD1804,CUST12,31/12/2023,electronics,Bluetooth Speaker,5,25.29,,PayPal,customer278@mail.com,1,0.27,No
+ORD1727,CUST114,09-17-2023,Books ,Yoga Mat,9,82.76,U.S.A,UPI,customer281@mail.com,10,0.13,Yes
+ORD1573,CUST239,26-Jul-2023,ELECTRONICS,Notebook,1,26.72,N/A,upi,,1,29%,N
+ORD1406,CUST157,26-Jan-2024,Home and Kitchen,Wireless Mouse,7,185.27, France,paypal,customer154@@mail.com,2,0.41,
+ORD1502,CUST155,14-May-2024,  Books   , Running Shoes,6,143.23,United Kingdom,Cash on Delivery,customer278@mail.com,6,0.41,N
+ORD1047,CUST183,2023/11/05,Beauty,Webcam HD,4,142.96,INDIA,,customer136@mail.com,1,0.28,No
+ORD1032,CUST41,09.07.2023,Electronics,Phone Case,7,168.63,unknown,CREDIT CARD,customer216@mail.com,1,0.38,No
+ORD1779,CUST216,2023/08/17,electronics,Shampoo,7,free,United States,upi,CUSTOMER99@MAIL.COM,1,0.04,
+ORD1839,CUST25,03/02/2024,Electronics,Face Cream,9,135.76,germany,UPI,customer234@mail.com,5,,No
+ORD1200,CUST222,20-Mar-2023,Home & Kitchen,Notebook,3,100.8,India,,customer288@mail.com,2,41%,Yes
+ORD1134,CUST131,2023/04/04,Clothing,Laptop Stand,5,125.48,india,,customer152@mail.com,4,0.41,No
+ORD1027,CUST133,21.01.2023,Books ,Notebook,5,Rs.70.95,Germany,paypal,customer111@mail.com,,0.19,No
+ORD1917,CUST142,11-Jul-2023,beauty ,Wireless Mouse,8,27.24,United Kingdom,,customer267@mail.com,5,8%,No
+ORD1230,CUST181,09-09-2023,Electronics,Yoga Mat,3,155.68,USA,credit card,customer131@mail.com,4,,Yes
+ORD1489,CUST226,09.04.2023,Home and Kitchen,Face Cream,3,48.93,  N/A  ,PayPal,customer15@mail.com,4,0.26,No
+ORD1772,CUST298,11-07-2023,Sports,  Notebook  ,5,193.01,,PayPal,customer169@mail.com,5,0.38,No
+ORD1378,CUST165,,Beauty,USB-C Cable,10,186.5,,credit card,customer86@mail.com,1,0.14,Yes
+ORD1288,CUST229,26.09.2023,ELECTRONICS,,3,175.9,United States,Cash on Delivery,customer203@mail.com,3,0.21,No
+ORD1418,CUST290,08/11/2023,Books ,  Face Cream  ,8,26.36,France,COD,customer138@mail.com,4,0.46,Yes
+ORD1674,CUST2,01-Apr-2023,Clothing,  Headphones  ,0,89.57,india,  NA  ,customer45@mail.com,3,8%,
+ORD1391,CUST73,28-Jun-2024,clothing,Denim Jacket,3,198.66,germany,Credit Card,CUSTOMER174@MAIL.COM,1,36%,No
+ORD1592,CUST268,15-Aug-2023,electronics,Phone Case,8,52.67,United Kingdom,credit card,customer115@mail.com,2,19%,Yes
+ORD1498,CUST227,30-Sep-2023,Electronics,T-Shirt,,5.95,india,UPI,customer157@mail.com,5,0.16,yes
+ORD1138,CUST277,23/02/2023,Beauty,  Shampoo  ,3,76.32,UK,COD,customer161@mail.com,6,0.28,No
+ORD1062,CUST118,17-Sep-2023,Books ,Smart Watch ,5,67.46,INDIA,,customer198@mail.com,,0.45,Yes
+ORD1471,CUST84,03-15-2024,  Beauty  ,Headphones,6,19.41,   France  ,Credit Card,customer157@mail.com,4,0.12,No
+ORD1647,,25.08.2024,Sports,Notebook,-4,190.31, France,,CUSTOMER141@MAIL.COM,5,,No
+ORD1057,CUST277,2024-05-27,electronics,Denim Jacket,4,147.62,United States,Credit Card,CUSTOMER261@MAIL.COM,10,0.13,Yes
+ORD1702,CUST187,2023-03-02,Books,,0,$54.24,N/A,paypal,customer125@mail.com,2,42%,Yes
+ORD1520,CUST137,04-03-2024,ELECTRONICS,Denim Jacket,3,28.35,  France  ,CREDIT CARD,customer134@mail.com,4,0.17,Yes
+ORD1838,CUST36,02.08.2024,Books,Notebook,4,18.38,United Kingdom,CREDIT CARD,customer5@mail.com,2,0.07,Yes
+ORD1262,CUST73,14/04/2023,  Home & Kitchen  ,Laptop Stand,3,169.62,  germany  ,  upi  ,,4,7%,Yes
+ORD1064,CUST110,25.03.2024,clothing,Yoga Mat,3,97.28,,  COD  ,customer85@mail.com,1,20%,No
+ORD1812,CUST153,01.04.2024,Books ,Headphones,10,169.53,USA,Credit Card,customer5@mail.com,3,38%,Yes
+ORD1014,CUST10,2023/10/30,Clothing,USB-C Cable,9999,58.02,United States,UPI,customer133@mail.com,5,0.29,Yes
+ORD1156,CUST141,2024/02/10,electronics,Smart Watch ,1,13.06,germany,upi,customer36@mail.com,1,0.34,Yes
+ORD1040,CUST47,16/04/2024,ELECTRONICS, Running Shoes,9999,126.33,United States,CREDIT CARD,customer35@mail.com,good,0.4,Yes
+ORD1492,CUST274,23.09.2023,ELECTRONICS,Notebook,8,183.88,USA,,,5,0.1,No
+ORD1379,CUST137,invalid_date,clothing,T-Shirt,,136.41,United Kingdom,NA,customer93@mail.com,2,0.42,Yes
+ORD1187,,01-Jul-2024,electronics,  Wireless Mouse  ,2,$140.7,United Kingdom,CREDIT CARD,customer10@mail.com,6,0.48,N
+ORD1763,cust106,2023/07/27,Electronics,Gel Pen,1,65.03,N/A,  COD  ,,5,29%,No
+ORD1216,CUST163,21-May-2023,Sports,Denim Jacket,,102.01,France,CREDIT CARD,customer58@mail.com,2,0.14,Yes
+ORD1921,CUST124,28/10/2024,Books,Headphones,5,197.31,N/A,  COD  ,customer202@mail.com,1,0.48,Yes
+ORD1791,CUST255,,  Home & Kitchen  ,Shampoo,9,33.68,INDIA,COD,customer162@mail.com,1,0.23,no
+ORD1052,CUST103,2024-11-11,Books , Running Shoes,,-45.12,india,NA,customer148@mail.com,2,48%,No
+ORD1878,CUST155,13.07.2024,ELECTRONICS,Notebook,1,86.91,germany,UPI,customer98@mail.com,2,,0
+ORD1337,CUST190,07-12-2024,beauty ,,9999,19.79, France,PayPal,customer107@mail.com,,0.37,N
+ORD1748,CUST187,2023-01-23,  beauty   ,Gel Pen,9,41.52,INDIA,UPI,customer100@mail.com,9,23%,No
+ORD1719,CUST43,2024-08-05,Clothing,Wireless Mouse,4,127.91,  Australia  ,,customer99@mail.com,1,10%,1
+ORD1724,CUST250,2023-04-07,Books,Face Cream,6,37.47,U.S.A,Credit Card,customer183@mail.com,2,,Yes
+ORD1295,CUST191,12-Apr-2024,clothing,T-Shirt,2,150.39, France,,customer284@mail.com,3,0.07,Y
+ORD1701,CUST141,10.12.2023,clothing,,5,195.7,U.S.A,  credit card  ,customer165@mail.com,3,43%,Yes
+ORD1251,CUST149,16-Oct-2023,  clothing  ,Notebook,9999,161.23,United Kingdom,upi,customer158@mail.com,4,0.26,Yes
+ORD1726,CUST107,13/06/2024,beauty ,Webcam HD,2,172.08,unknown,  Debit Card  ,customer185@mail.com,2,50%,Yes
+ORD1461,CUST207,14-Dec-2023,Books,Laptop Stand,4,-129.88,,credit card,customer45@mail.com,4,,No
+ORD1455,CUST197,02-02-2024,beauty ,  Gel Pen  ,9,182.04,Germany,NA,customer85@mail.com,2,41%,No
+ORD1270,CUST20,31.07.2023,Home & Kitchen,Phone Case,4,51.1,unknown,PayPal,customer89@mail.com,1,,No
+ORD1815,CUST167,2023-01-19,electronics,,5,134.69,United Kingdom,paypal,customer195@mail.com,3,0.17,Yes
+ORD1862,CUST155,04-06-2024,ELECTRONICS,Face Cream,1,23.47,,PayPal,customer286@mail.com,1,0.47,Yes
+ORD1269,CUST296,10.04.2024,Clothing,Bluetooth Speaker,2,118.73,N/A,,customer260@mail.com,4,,No
+ORD1201,CUST186,2024-06-01,  Books   ,Power Bank,3,,unknown,NA,,3,0.12,
+ORD1161,CUST205,23/02/2024,Electronics,Denim Jacket,6,133.28,,paypal,customer233@mail.com,5,25%,no
+ORD1555,CUST233,2024-05-11,beauty ,Laptop Stand,3,118.12,U.S.A,credit card,customer140@mail.com,2,31%,Yes
+ORD1729,CUST136,08-Apr-2024,clothing,,2,115.44,N/A,UPI,customer200@mail.com,2,0.07,Yes
+ORD1401,CUST135,20.02.2023,electronics,Gel Pen,2,free,,NA,customer165@mail.com,5,45%,
+ORD1702,CUST187,2023-03-02,Books,,0,$54.24,N/A,paypal,customer125@mail.com,2,42%,Yes
+ORD1476,CUST5,12-29-2023,Clothing,Laptop Stand,3,162.22,INDIA,upi,customer45@mail.com,2,0.16,No
+ORD1821,CUST117,02/04/2023,beauty ,Power Bank,0,104.7,UK,CREDIT CARD,customer216@mail.com,4,15%,Yes
+ORD1771,CUST284,12-Mar-2024,Sports,   Running Shoes  ,7,149.06,germany,COD,customer237@mail.com,4,3%,No
+ORD1105,CUST87,17-Apr-2024,  clothing  ,Wireless Mouse,4,13.46,germany,Debit Card,customer83@mail.com,4,0.14,Yes
+ORD1565,cust65,07-01-2024,Home and Kitchen,Wireless Mouse,8,49.52,UK,PayPal,customer42@mail.com,3,0.21,Y
+ORD1389,CUST238,14-Mar-2023,Beauty,,1,,United States,CREDIT CARD,customer35@mail.com,3,47%,No
+ORD1001,CUST69,2023/05/01,ELECTRONICS,USB-C Cable,4,77.62,INDIA,paypal,,5,0.16,No
+ORD1978,CUST287,2023-12-17,beauty ,Denim Jacket,10,118.54,UK,Credit Card,CUSTOMER123@MAIL.COM,4,13%,Yes
+ORD1119,CUST293,2023-12-15,electronics,,10,73.93,N/A,,customer90@mail.com,3,0.38,Yes
+ORD1561,CUST205,29-Apr-2023,Electronics,Phone Case,7,52.14,India,paypal,CUSTOMER73@MAIL.COM,1,41%,Yes
+ORD1931,CUST128,2023/09/25,Clothing,Gel Pen,9,$59.69, France,  NA  ,customer103@mail.com,3,37%,True
+ORD1080,CUST109,05-03-2023,Home and Kitchen,  Smart Watch   ,4,24.03,  United States  ,Credit Card,customer9@mail.com,5,,Yes
+ORD1205,CUST239,2023-01-07,Home & Kitchen,Notebook,7,190.65,United States,PayPal,CUSTOMER75@MAIL.COM,4,0.3,No
+ORD1034,CUST163,01.09.2024,Clothing,USB-C Cable,8,191.01,  Germany  ,Cash on Delivery,customer5@mail.com,3,0.39,No
+ORD1871,CUST11,20-Mar-2024,electronics,Phone Case,-5,78.2,United States,PayPal,customer18@mail.com,3,45%,Yes
+ORD1775,CUST106,2023-02-18,clothing,,1,172.79,UK,CREDIT CARD,customer121@mail.com,4,,Yes
+ORD1508,CUST173,,Home & Kitchen,Bluetooth Speaker,3,37.23,  UK  ,NA,customer50@mail.com,2,22%,Yes
+ORD1427,CUST58,06/12/2023,ELECTRONICS,USB-C Cable,7,166.04,USA,COD,customer186@mail.com,2,7%,No
+ORD1454,cust176,27-Jun-2024,Sports,Gel Pen,1,39.96,N/A,paypal,customer154@mail.com,2,7%,No
+ORD1971,CUST265,02.01.2024,Books,Laptop Stand,6,73.62,  USA  ,Cash on Delivery,customer37@mail.com,3,0.02,No
+ORD1366,CUST211,01-08-2023,Clothing,Phone Case,4,,India,PayPal,customer75@mail.com,1,0.11,Yes
+ORD1091,CUST154,29-May-2023,electronics,T-Shirt,10,168.44,  UK  ,Cash on Delivery,CUSTOMER132@MAIL.COM,4,34%,No
+ORD1339,CUST273,14-Jul-2024,Books,Notebook,3,45.14,INDIA,NA,customer209@@mail.com,2,0.35,Yes
+ORD1897,CUST110,2024/02/24,Books ,  Phone Case  ,6,68.03,France,,customer100@mail.com,5,0.39,No
+ORD1564,CUST165,2024/09/02,  beauty   ,,6,-41.64,Australia,,customer212@mail.com,5,12%,No
+ORD1345,CUST243,2024-07-24,Electronics, Running Shoes,10,$175.87,United States,NA,customer28@mail.com,2,0.07,Yes
+ORD1776,CUST139,13.05.2024,  Clothing  ,   Running Shoes  ,1,74.12,U.S.A,COD,customer251@mail.com,3,0.24,0
+ORD1241,CUST49,05-May-2023,Clothing,T-Shirt,1,175.1,U.S.A,  PayPal  ,customer88@mail.com,1,0.34,No
+ORD1013,CUST80,10/01/2024,Beauty,Headphones,2,82.66,United Kingdom,CREDIT CARD,customer216@mail.com,3,23%,True
+ORD1315,CUST9,2023-11-01,Beauty,Denim Jacket,,114.9,Australia,UPI,customer214@mail.com,4,0.21,Yes
+ORD1600,CUST255,30-Nov-2024,  Electronics  ,Bluetooth Speaker,5,94.88,Germany,UPI,customer26@mail.com,1,0.18,No
+ORD1387,CUST43,07-04-2024,Electronics,Headphones,10,6.07,unknown,  paypal  ,customer118@mail.com,2,0.03,False
+ORD1273,CUST6,2024/08/26,Books,T-Shirt,7,157.89,UK,COD,customer168@mail.com,1,0.15,Yes
+ORD1166,CUST123,2024/04/28,  Sports  , Running Shoes,five,51.53,United Kingdom,  Credit Card  ,customer20@mail.com,2,0.02,no
+ORD1840,CUST145,03-Feb-2023,Beauty,Notebook,7,167.17,U.S.A,NA,customer293@mail.com,good,,No
+ORD1020,CUST22,18-Apr-2023,Books,Wireless Mouse,4,$100.41,INDIA,,customer270@mail.com,,0.13,Y
+ORD1646,CUST266,09-05-2024,Home and Kitchen,,2,$192.78,Germany,credit card,,3,0.25,True
+ORD1818,CUST82,01.09.2023,Home and Kitchen,Yoga Mat,8,175.75,France,Debit Card,customer270@mail.com,3,0.42,No
+ORD1484,cust21,2024-05-20,ELECTRONICS,,9,157.96,United States,  Debit Card  ,customer37@mail.com,2,46%,1
+ORD1433,CUST291,02.08.2024,Clothing,  Smart Watch   ,5,59.56,india,Credit Card,customer158@mail.com,2,0.09,no
+ORD1504,CUST198,2024/05/15,ELECTRONICS,Smart Watch ,0,158.41,Germany,,customer165@mail.com,1,0.01,Yes
+ORD1831,CUST90,2024-04-08,Home and Kitchen,Notebook,2,107.67,,,customer299@@mail.com,good,0.32,Yes
+ORD1243,CUST112,07.10.2024,ELECTRONICS,Denim Jacket,8,162.35,United States,,customer52@mail.com,,0.45,no
+ORD1566,CUST107,10-11-2023,beauty ,T-Shirt,2,109.62,UK,  Cash on Delivery  ,customer226@mail.com,2,24%,Yes
+ORD1875,CUST192,02-Sep-2023,Electronics,Smart Watch ,6,32.13,India,,customer76@mail.com,4,42%,no
+ORD1562,CUST163,2023-07-05,Electronics,Denim Jacket,7,-115.28,INDIA,CREDIT CARD,customer155@mail.com,,0.37,Yes
+ORD1995,CUST22,2024-06-15,electronics,USB-C Cable,7,Rs.141.62,UK,Debit Card,customer158@mail.com,3,0.1,Yes
+ORD1686,CUST148,16.09.2024,Electronics,,6,117.23,germany,Debit Card,customer3@mail.com,4,0.08,No
+ORD1957,,24/01/2024,Electronics,Notebook,9,124.77,U.S.A,COD,customer270@mail.com,2,0.29,No
+ORD1189,CUST217,08-23-2023,electronics,Bluetooth Speaker,4,159.81,unknown,NA,customer242@mail.com,2,37%,
+ORD1782,CUST61,02-29-2024,Books,Gel Pen,10,free, France,Debit Card,customer116@mail.com,3,4%,True
+ORD1975,CUST40,2024-09-25,beauty ,,2,66.06,United Kingdom,NA,,5,0.11,Yes
+ORD1699,CUST253,03.05.2024,electronics,T-Shirt,8,94.69,U.S.A,Cash on Delivery,customer46@@mail.com,8,0.45,No
+ORD1475,CUST245,16-Mar-2024,  beauty   ,Webcam HD,9,64.97,UK,credit card,,4,0.06,Yes
+ORD1681,CUST182,03-24-2024,ELECTRONICS,  Shampoo  ,,13.09,India,NA,customer128@mail.com,4,46%,0
+ORD1510,CUST52,05/05/2023,  Books  ,Power Bank,7,33.39,Australia,NA,customer131@@mail.com,3,0.34,No
+ORD1016,cust208,16.03.2024,Home and Kitchen,Headphones,10,171.23,USA,COD,customer215@mail.com,4,0.31,1
+ORD1474,CUST277,invalid_date,  Home and Kitchen  ,Shampoo,7,$47.88,United Kingdom,NA,customer217@mail.com,1,0.31,No
+ORD1560,CUST168,02-03-2024,Home and Kitchen,wireless mouse,6,129.43,India,,customer156@mail.com,2,0.46,No
+ORD1856,CUST46,21.01.2024,electronics,Yoga Mat,7,46.23,N/A,Credit Card,customer48@mail.com,2,0.19,Yes
+ORD1747,CUST130,16/02/2024,Electronics,Laptop Stand,9,81.51,India,  Debit Card  ,customer240@mail.com,5,0.25,Yes
+ORD1252,CUST239,18/09/2024,ELECTRONICS,Gel Pen,-3,173.35,  Germany  ,,customer50@mail.com,1,41%,No
+ORD1021,CUST106,16-Apr-2024,Books,Phone Case,10,128.39,U.S.A,upi,customer291@mail.com,4,17%,Yes
+ORD1313,CUST278,25/04/2023,Electronics,Webcam HD,1,110.73,UK,COD,,2,0.07,N
+ORD1459,CUST118,28.01.2024,Home & Kitchen,Yoga Mat,-2,15.3,India,UPI,,4,0.12,No
+ORD1160,CUST240,10-06-2024,Clothing,Power Bank,4,59.93,India,  Debit Card  ,customer259@@mail.com,3,40%,No
+ORD1276,CUST176,2023-09-14,clothing,Denim Jacket,1,71.99,Germany,PayPal,customer126@mail.com,5,0.12,no
+ORD1955,CUST256,06.01.2023,beauty ,Notebook,2,175.87,France,paypal,customer147@mail.com,3,0.36,Yes
+ORD1191,CUST268,09-15-2024,beauty ,Headphones,4,95.04,USA,NA,customer244@mail.com,1,4%,No
+ORD1385,CUST114,06.07.2024,Home & Kitchen,,6,79.41,India,  upi  ,customer139@mail.com,4,,Yes
+ORD1805,CUST236,21.05.2024,Home and Kitchen,Yoga Mat,7,62.92,United States,upi,customer186@mail.com,5,11%,No
+ORD1413,CUST26,30.09.2023,Sports,Bluetooth Speaker,6,55.56,Germany,NA,customer217@mail.com,2,0.09,False
+ORD1491,CUST130,10-06-2023,Home & Kitchen,USB-C Cable,,192.43,,CREDIT CARD,,2,13%,No
+ORD1065,CUST34,19-Jan-2024,Electronics,Laptop Stand,6,175.39,France,Cash on Delivery,customer253@mail.com,1,27%,No
+ORD1769,CUST161,23/04/2024,clothing,  Webcam HD  ,3,195.23,germany,,CUSTOMER236@MAIL.COM,4,0.19,Yes
+ORD1308,CUST3,2024-05-27,Sports,USB-C Cable,-4,194.93,unknown,upi,customer232@mail.com,1,43%,No
+ORD1661,,30/07/2024,ELECTRONICS,Notebook,9,25.42,France,UPI,customer11@mail.com,4,0.09,No
+ORD1130,CUST45,20-Feb-2023,  Books  ,Face Cream,6,93.82,,,customer280@mail.com,2,0.4,No
+ORD1871,CUST266,2024-09-16,Home & Kitchen,T-Shirt,10,77.41,Australia,credit card,customer41@mail.com,2,48%,Yes
+ORD1087,CUST157,2023/03/03,clothing,Bluetooth Speaker,9,186.73,U.S.A,UPI,customer45@mail.com,3,0.3,No
+ORD1330,CUST250,2023-07-22,Beauty,Denim Jacket,3,$22.02,Australia,paypal,CUSTOMER197@MAIL.COM,1,0.02,No
+ORD1466,CUST76,27.03.2024,Home and Kitchen,  Headphones  ,five,117.45,Australia,Credit Card,customer71@mail.com,4,0.33,No
+ORD1121,CUST208,2023-06-28,electronics,,8,197.63,unknown,Credit Card,,3,39%,No
+ORD1860,CUST78,12-Mar-2024,Home and Kitchen,wireless mouse,1,$184.07,U.S.A,CREDIT CARD,CUSTOMER263@MAIL.COM,1,46%,Yes
