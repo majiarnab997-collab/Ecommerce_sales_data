@@ -15,7 +15,6 @@
 
 | Log ID | Column Affected | Issue Identified | Rows Affected | Decision / Transformation | Reason & Statistical Impact |
 | :----: | :-------------- | :--------------- | :-----------: | :------------------------ | :-------------------------- |
-| LOG-07 | `Order Date` | Multiple date formats and `"invalid_date"` | Subject to scan | Convert to a standardized datetime format | A consistent datetime format is required for time-series analysis and time-based calculations |
 | LOG-08 | Column Names | No leading or trailing spaces were found in the column names | 0 | No transformation required | Column names are already properly formatted, so no cleaning is necessary |
 | LOG-09 | All Columns | Completely empty row found at index `159` | 1 | Remove row at index `159` | A completely empty row contains no useful information and can affect row counts and data quality checks |
 
@@ -50,3 +49,21 @@ The dataset was also scanned for disguised missing-value markers, including:
 - `nan`
 
 The number of occurrences for each marker was recorded during the cleaning process and will be handled consistently during the missing-value treatment stage.
+
+## Duplicate Records Analysis
+
+| Log ID | Column / Record | Issue Identified | Rows Affected | Decision / Transformation | Reason & Statistical Impact |
+| :----: | :-------------- | :--------------- | :-----------: | :------------------------ | :-------------------------- |
+| LOG-10 | All Columns | Completely identical duplicate rows were identified in the dataset. `ORD1108` appears as an example of an exact duplicate record. | To be confirmed | Review and remove exact duplicate rows | Exact duplicate records can cause the same transaction to be counted more than once and may bias statistical calculations. |
+| LOG-11 | `Order ID` | Some `Order ID`s appear multiple times with different product, quantity, price, or other details. | To be confirmed | Review each repeated `Order ID` individually; do not remove automatically | A repeated `Order ID` does not necessarily represent a duplicate transaction. Different details may represent separate records or data inconsistencies. |
+
+
+## Inconsistent Values and Data Quality Issues
+
+| Log ID | Column Affected | Issue Identified | Values / Variations Found | Decision / Transformation | Reason & Statistical Impact |
+| :----: | :-------------- | :--------------- | :------------------------- | :------------------------ | :-------------------------- |
+| LOG-12 | `Country` | Inconsistent spelling and casing | Variations such as `USA`, `U.S.A`, `United States`, `INDIA`, `India`, etc. | Standardize country names and casing | Inconsistent country labels can split the same category into multiple groups and produce incorrect frequency and statistical results. |
+| LOG-13 | `Category` | Inconsistent spelling and casing | Variations such as `Beauty`, `beauty`, `Clothing`, `clothing`, etc. | Standardize category names and casing | Inconsistent category labels can lead to incorrect grouping, comparisons, and category-level statistics. |
+| LOG-14 | `PaymentMethod` | Inconsistent spelling and casing | Variations such as `PayPal`, `paypal`, `Credit Card`, etc. | Standardize payment method names and casing | Consistent labels are required for accurate frequency counts and payment-method comparisons. |
+| LOG-15 | `Returned?` | Mixed binary formats | Values such as `Yes`, `No`, `Y`, `N`, `1`, `0`, `True`, `False` | Map all valid values to a consistent binary format (`1 = Yes`, `0 = No`) | A consistent binary representation is required for probability analysis, Bernoulli distribution, and statistical calculations. |
+| LOG-16 | `customer_email` | Invalid email addresses containing `@@` | Email addresses containing multiple `@` symbols | Identify and handle invalid email records | Invalid email values reduce data quality and should not be treated as valid customer contact information. |
